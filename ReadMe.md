@@ -107,8 +107,8 @@ id: Ireland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Ireland//
-markerFolder: ./Ireland//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Ireland] 
