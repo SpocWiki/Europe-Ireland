@@ -27,7 +27,7 @@ publishDate:
 expiryDate: 
 ---
 
-# Cork
+# [[Cork]] 
 
 ```leaflet
 id: Cork
