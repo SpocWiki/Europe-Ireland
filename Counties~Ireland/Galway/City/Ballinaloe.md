@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-8.23] 
-[geo-lat::53.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-8.23] 
+[has_place_latitude::53.33] 
 [name::Ballinaloe] 
 State ::  
 Country :: [[Ireland]]  

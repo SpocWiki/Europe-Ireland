@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-8.33] 
-[geo-lat::54.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-8.33] 
+[has_place_latitude::54.27] 
 [name::Sligo] 
 State ::  
 Country :: [[Ireland]]  

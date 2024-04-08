@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-7.93] 
-[geo-lat::53.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-7.93] 
+[has_place_latitude::53.42] 
 [name::Athlone] 
 State ::  
 Country :: [[Ireland]]  

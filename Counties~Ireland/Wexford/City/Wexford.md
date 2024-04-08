@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-6.47] 
-[geo-lat::52.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-6.47] 
+[has_place_latitude::52.33] 
 [name::Wexford] 
 State ::  
 Country :: [[Ireland]]  
