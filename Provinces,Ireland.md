@@ -2,10 +2,10 @@
 
 ## #has_/text_of_/abstract 
 
-> There are four **Provinces of Ireland**: [[Connacht]], [[Leinster]], [[Munster]] and [[Ulster]]. 
+> There are four **Provinces of Ireland**: [[Ireland,Provinces/Connacht]], [[Ireland,Provinces/Leinster]], [[Ireland,Provinces/Munster]] and [[Ireland,Provinces/Ulster]]. 
 > The Irish word for this territorial division, cúige, meaning "fifth part", 
 > suggests that there were once five, 
-> and at times [[Counties~Ireland/Meath|Meath]] has been considered to be the fifth province. 
+> and at times [[Ireland,Provinces/Leinster/Meath|Meath]] has been considered to be the fifth province. 
 > 
 > In the medieval period, however, there were often more than five. 
 > The number of provinces and their delimitation fluctuated until 1610, 
