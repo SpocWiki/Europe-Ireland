@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schull.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CitySchull.public.md) 
+### [Schull](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Cork,County/City/Schull.md) 
 
-### [Schull.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CitySchull.internal.md) 
+### [Schull.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Cork,County/City/Schull.public.md) 
 
-### [Schull.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CitySchull.protect.md) 
+### [Schull.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Cork,County/City/Schull.internal.md) 
 
-### [Schull.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CitySchull.private.md) 
+### [Schull.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Cork,County/City/Schull.protect.md) 
 
-### [Schull.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CitySchull.personal.md) 
+### [Schull.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Cork,County/City/Schull.private.md) 
 
-### [Schull.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CitySchull.secret.md)
+### [Schull.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Cork,County/City/Schull.personal.md) 
+
+### [Schull.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Cork,County/City/Schull.secret.md)
 

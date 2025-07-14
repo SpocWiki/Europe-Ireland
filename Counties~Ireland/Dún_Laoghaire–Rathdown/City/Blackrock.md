@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Blackrock.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Counties~Ireland\Dún_Laoghaire–Rathdown\CityBlackrock.public.md) 
+### [Blackrock](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Dún_Laoghaire–Rathdown/City/Blackrock.md) 
 
-### [Blackrock.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Counties~Ireland\Dún_Laoghaire–Rathdown\CityBlackrock.internal.md) 
+### [Blackrock.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Dún_Laoghaire–Rathdown/City/Blackrock.public.md) 
 
-### [Blackrock.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Counties~Ireland\Dún_Laoghaire–Rathdown\CityBlackrock.protect.md) 
+### [Blackrock.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Dún_Laoghaire–Rathdown/City/Blackrock.internal.md) 
 
-### [Blackrock.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Counties~Ireland\Dún_Laoghaire–Rathdown\CityBlackrock.private.md) 
+### [Blackrock.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Dún_Laoghaire–Rathdown/City/Blackrock.protect.md) 
 
-### [Blackrock.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Counties~Ireland\Dún_Laoghaire–Rathdown\CityBlackrock.personal.md) 
+### [Blackrock.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Dún_Laoghaire–Rathdown/City/Blackrock.private.md) 
 
-### [Blackrock.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Counties~Ireland\Dún_Laoghaire–Rathdown\CityBlackrock.secret.md)
+### [Blackrock.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Dún_Laoghaire–Rathdown/City/Blackrock.personal.md) 
+
+### [Blackrock.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Dún_Laoghaire–Rathdown/City/Blackrock.secret.md)
 

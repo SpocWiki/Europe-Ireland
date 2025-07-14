@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Youghall.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\CityYoughall.public.md) 
+### [Youghall](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Youghall.md) 
 
-### [Youghall.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\CityYoughall.internal.md) 
+### [Youghall.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Youghall.public.md) 
 
-### [Youghall.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\CityYoughall.protect.md) 
+### [Youghall.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Youghall.internal.md) 
 
-### [Youghall.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\CityYoughall.private.md) 
+### [Youghall.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Youghall.protect.md) 
 
-### [Youghall.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\CityYoughall.personal.md) 
+### [Youghall.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Youghall.private.md) 
 
-### [Youghall.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\CityYoughall.secret.md)
+### [Youghall.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Youghall.personal.md) 
+
+### [Youghall.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Youghall.secret.md)
 

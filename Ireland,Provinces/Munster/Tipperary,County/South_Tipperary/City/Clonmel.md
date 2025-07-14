@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Clonmel.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityClonmel.public.md) 
+### [Clonmel](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Clonmel.md) 
 
-### [Clonmel.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityClonmel.internal.md) 
+### [Clonmel.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Clonmel.public.md) 
 
-### [Clonmel.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityClonmel.protect.md) 
+### [Clonmel.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Clonmel.internal.md) 
 
-### [Clonmel.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityClonmel.private.md) 
+### [Clonmel.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Clonmel.protect.md) 
 
-### [Clonmel.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityClonmel.personal.md) 
+### [Clonmel.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Clonmel.private.md) 
 
-### [Clonmel.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityClonmel.secret.md)
+### [Clonmel.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Clonmel.personal.md) 
+
+### [Clonmel.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Clonmel.secret.md)
 

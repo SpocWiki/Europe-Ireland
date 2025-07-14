@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rathgar.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~Dublin\South_Dublin\CityRathgar.public.md) 
+### [Rathgar](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.md) 
 
-### [Rathgar.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~Dublin\South_Dublin\CityRathgar.internal.md) 
+### [Rathgar.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.public.md) 
 
-### [Rathgar.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~Dublin\South_Dublin\CityRathgar.protect.md) 
+### [Rathgar.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.internal.md) 
 
-### [Rathgar.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~Dublin\South_Dublin\CityRathgar.private.md) 
+### [Rathgar.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.protect.md) 
 
-### [Rathgar.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~Dublin\South_Dublin\CityRathgar.personal.md) 
+### [Rathgar.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.private.md) 
 
-### [Rathgar.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~Dublin\South_Dublin\CityRathgar.secret.md)
+### [Rathgar.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.personal.md) 
+
+### [Rathgar.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.secret.md)
 

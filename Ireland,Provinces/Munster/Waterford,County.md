@@ -41,15 +41,17 @@ markerFolder: ./Waterford/
 
 ## Confidential Links & Embeds: 
 
-### [Waterford,County.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterWaterford,County.public.md) 
+### [Waterford,County](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County.md) 
 
-### [Waterford,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterWaterford,County.internal.md) 
+### [Waterford,County.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County.public.md) 
 
-### [Waterford,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterWaterford,County.protect.md) 
+### [Waterford,County.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County.internal.md) 
 
-### [Waterford,County.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterWaterford,County.private.md) 
+### [Waterford,County.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County.protect.md) 
 
-### [Waterford,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterWaterford,County.personal.md) 
+### [Waterford,County.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County.private.md) 
 
-### [Waterford,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterWaterford,County.secret.md)
+### [Waterford,County.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County.personal.md) 
+
+### [Waterford,County.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kilkenny,City.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Kilkenny,County\counties~KilkennyKilkenny,City.public.md) 
+### [Kilkenny,City](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Kilkenny,County/counties~Kilkenny/Kilkenny,City.md) 
 
-### [Kilkenny,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Kilkenny,County\counties~KilkennyKilkenny,City.internal.md) 
+### [Kilkenny,City.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Kilkenny,County/counties~Kilkenny/Kilkenny,City.public.md) 
 
-### [Kilkenny,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Kilkenny,County\counties~KilkennyKilkenny,City.protect.md) 
+### [Kilkenny,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Kilkenny,County/counties~Kilkenny/Kilkenny,City.internal.md) 
 
-### [Kilkenny,City.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Kilkenny,County\counties~KilkennyKilkenny,City.private.md) 
+### [Kilkenny,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Kilkenny,County/counties~Kilkenny/Kilkenny,City.protect.md) 
 
-### [Kilkenny,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Kilkenny,County\counties~KilkennyKilkenny,City.personal.md) 
+### [Kilkenny,City.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Kilkenny,County/counties~Kilkenny/Kilkenny,City.private.md) 
 
-### [Kilkenny,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Kilkenny,County\counties~KilkennyKilkenny,City.secret.md)
+### [Kilkenny,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Kilkenny,County/counties~Kilkenny/Kilkenny,City.personal.md) 
+
+### [Kilkenny,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Kilkenny,County/counties~Kilkenny/Kilkenny,City.secret.md)
 

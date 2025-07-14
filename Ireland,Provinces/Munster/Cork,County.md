@@ -41,15 +41,17 @@ markerFolder: ./Cork/
 
 ## Confidential Links & Embeds: 
 
-### [Cork,County.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterCork,County.public.md) 
+### [Cork,County](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Cork,County.md) 
 
-### [Cork,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterCork,County.internal.md) 
+### [Cork,County.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Cork,County.public.md) 
 
-### [Cork,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterCork,County.protect.md) 
+### [Cork,County.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Cork,County.internal.md) 
 
-### [Cork,County.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterCork,County.private.md) 
+### [Cork,County.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Cork,County.protect.md) 
 
-### [Cork,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterCork,County.personal.md) 
+### [Cork,County.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Cork,County.private.md) 
 
-### [Cork,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterCork,County.secret.md)
+### [Cork,County.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Cork,County.personal.md) 
+
+### [Cork,County.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Cork,County.secret.md)
 

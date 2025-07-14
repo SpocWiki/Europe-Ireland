@@ -41,15 +41,17 @@ markerFolder: ./Wicklow/
 
 ## Confidential Links & Embeds: 
 
-### [Wicklow.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterWicklow.public.md) 
+### [Wicklow](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wicklow.md) 
 
-### [Wicklow.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterWicklow.internal.md) 
+### [Wicklow.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wicklow.public.md) 
 
-### [Wicklow.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterWicklow.protect.md) 
+### [Wicklow.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wicklow.internal.md) 
 
-### [Wicklow.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterWicklow.private.md) 
+### [Wicklow.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wicklow.protect.md) 
 
-### [Wicklow.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterWicklow.personal.md) 
+### [Wicklow.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wicklow.private.md) 
 
-### [Wicklow.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterWicklow.secret.md)
+### [Wicklow.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wicklow.personal.md) 
+
+### [Wicklow.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wicklow.secret.md)
 

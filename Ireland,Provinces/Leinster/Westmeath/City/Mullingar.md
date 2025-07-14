@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mullingar.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Westmeath\CityMullingar.public.md) 
+### [Mullingar](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Westmeath/City/Mullingar.md) 
 
-### [Mullingar.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Westmeath\CityMullingar.internal.md) 
+### [Mullingar.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Westmeath/City/Mullingar.public.md) 
 
-### [Mullingar.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Westmeath\CityMullingar.protect.md) 
+### [Mullingar.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Westmeath/City/Mullingar.internal.md) 
 
-### [Mullingar.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Westmeath\CityMullingar.private.md) 
+### [Mullingar.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Westmeath/City/Mullingar.protect.md) 
 
-### [Mullingar.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Westmeath\CityMullingar.personal.md) 
+### [Mullingar.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Westmeath/City/Mullingar.private.md) 
 
-### [Mullingar.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Westmeath\CityMullingar.secret.md)
+### [Mullingar.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Westmeath/City/Mullingar.personal.md) 
+
+### [Mullingar.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Westmeath/City/Mullingar.secret.md)
 

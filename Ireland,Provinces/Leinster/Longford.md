@@ -41,15 +41,17 @@ markerFolder: ./Longford/
 
 ## Confidential Links & Embeds: 
 
-### [Longford.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLongford.public.md) 
+### [Longford](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Longford.md) 
 
-### [Longford.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLongford.internal.md) 
+### [Longford.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Longford.public.md) 
 
-### [Longford.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLongford.protect.md) 
+### [Longford.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Longford.internal.md) 
 
-### [Longford.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLongford.private.md) 
+### [Longford.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Longford.protect.md) 
 
-### [Longford.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLongford.personal.md) 
+### [Longford.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Longford.private.md) 
 
-### [Longford.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLongford.secret.md)
+### [Longford.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Longford.personal.md) 
+
+### [Longford.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Longford.secret.md)
 

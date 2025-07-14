@@ -42,15 +42,17 @@ markerFolder: ./Laoighis/
 
 ## Confidential Links & Embeds: 
 
-### [Laois.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLaois.public.md) 
+### [Laois](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Laois.md) 
 
-### [Laois.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLaois.internal.md) 
+### [Laois.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Laois.public.md) 
 
-### [Laois.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLaois.protect.md) 
+### [Laois.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Laois.internal.md) 
 
-### [Laois.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLaois.private.md) 
+### [Laois.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Laois.protect.md) 
 
-### [Laois.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLaois.personal.md) 
+### [Laois.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Laois.private.md) 
 
-### [Laois.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLaois.secret.md)
+### [Laois.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Laois.personal.md) 
+
+### [Laois.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Laois.secret.md)
 

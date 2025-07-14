@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tipperary,City.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityTipperary,City.public.md) 
+### [Tipperary,City](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.md) 
 
-### [Tipperary,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityTipperary,City.internal.md) 
+### [Tipperary,City.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.public.md) 
 
-### [Tipperary,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityTipperary,City.protect.md) 
+### [Tipperary,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.internal.md) 
 
-### [Tipperary,City.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityTipperary,City.private.md) 
+### [Tipperary,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.protect.md) 
 
-### [Tipperary,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityTipperary,City.personal.md) 
+### [Tipperary,City.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.private.md) 
 
-### [Tipperary,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityTipperary,City.secret.md)
+### [Tipperary,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.personal.md) 
+
+### [Tipperary,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.secret.md)
 

@@ -12,19 +12,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Leinster) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Leinster.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesLeinster.public.md) 
+### [Leinster](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster.md) 
 
-### [Leinster.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesLeinster.internal.md) 
+### [Leinster.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster.public.md) 
 
-### [Leinster.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesLeinster.protect.md) 
+### [Leinster.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster.internal.md) 
 
-### [Leinster.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesLeinster.private.md) 
+### [Leinster.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster.protect.md) 
 
-### [Leinster.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesLeinster.personal.md) 
+### [Leinster.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster.private.md) 
 
-### [Leinster.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesLeinster.secret.md)
+### [Leinster.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster.personal.md) 
+
+### [Leinster.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster.secret.md)
 

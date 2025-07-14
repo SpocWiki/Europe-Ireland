@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Valentia.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Kerry\CityValentia.public.md) 
+### [Valentia](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry/City/Valentia.md) 
 
-### [Valentia.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Kerry\CityValentia.internal.md) 
+### [Valentia.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry/City/Valentia.public.md) 
 
-### [Valentia.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Kerry\CityValentia.protect.md) 
+### [Valentia.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry/City/Valentia.internal.md) 
 
-### [Valentia.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Kerry\CityValentia.private.md) 
+### [Valentia.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry/City/Valentia.protect.md) 
 
-### [Valentia.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Kerry\CityValentia.personal.md) 
+### [Valentia.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry/City/Valentia.private.md) 
 
-### [Valentia.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Kerry\CityValentia.secret.md)
+### [Valentia.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry/City/Valentia.personal.md) 
+
+### [Valentia.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry/City/Valentia.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waterford,City.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Waterford,County\counties~WaterfordWaterford,City.public.md) 
+### [Waterford,City](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County/counties~Waterford/Waterford,City.md) 
 
-### [Waterford,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Waterford,County\counties~WaterfordWaterford,City.internal.md) 
+### [Waterford,City.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County/counties~Waterford/Waterford,City.public.md) 
 
-### [Waterford,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Waterford,County\counties~WaterfordWaterford,City.protect.md) 
+### [Waterford,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County/counties~Waterford/Waterford,City.internal.md) 
 
-### [Waterford,City.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Waterford,County\counties~WaterfordWaterford,City.private.md) 
+### [Waterford,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County/counties~Waterford/Waterford,City.protect.md) 
 
-### [Waterford,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Waterford,County\counties~WaterfordWaterford,City.personal.md) 
+### [Waterford,City.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County/counties~Waterford/Waterford,City.private.md) 
 
-### [Waterford,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Waterford,County\counties~WaterfordWaterford,City.secret.md)
+### [Waterford,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County/counties~Waterford/Waterford,City.personal.md) 
+
+### [Waterford,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County/counties~Waterford/Waterford,City.secret.md)
 

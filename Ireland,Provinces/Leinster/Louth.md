@@ -41,15 +41,17 @@ markerFolder: ./Louth/
 
 ## Confidential Links & Embeds: 
 
-### [Louth.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLouth.public.md) 
+### [Louth](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Louth.md) 
 
-### [Louth.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLouth.internal.md) 
+### [Louth.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Louth.public.md) 
 
-### [Louth.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLouth.protect.md) 
+### [Louth.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Louth.internal.md) 
 
-### [Louth.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLouth.private.md) 
+### [Louth.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Louth.protect.md) 
 
-### [Louth.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLouth.personal.md) 
+### [Louth.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Louth.private.md) 
 
-### [Louth.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLouth.secret.md)
+### [Louth.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Louth.personal.md) 
+
+### [Louth.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Louth.secret.md)
 

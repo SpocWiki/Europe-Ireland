@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rathmines.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\CityRathmines.public.md) 
+### [Rathmines](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Rathmines.md) 
 
-### [Rathmines.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\CityRathmines.internal.md) 
+### [Rathmines.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Rathmines.public.md) 
 
-### [Rathmines.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\CityRathmines.protect.md) 
+### [Rathmines.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Rathmines.internal.md) 
 
-### [Rathmines.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\CityRathmines.private.md) 
+### [Rathmines.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Rathmines.protect.md) 
 
-### [Rathmines.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\CityRathmines.personal.md) 
+### [Rathmines.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Rathmines.private.md) 
 
-### [Rathmines.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\CityRathmines.secret.md)
+### [Rathmines.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Rathmines.personal.md) 
+
+### [Rathmines.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Rathmines.secret.md)
 

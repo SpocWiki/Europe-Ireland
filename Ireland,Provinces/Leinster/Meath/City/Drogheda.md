@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Drogheda.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\CityDrogheda.public.md) 
+### [Drogheda](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/City/Drogheda.md) 
 
-### [Drogheda.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\CityDrogheda.internal.md) 
+### [Drogheda.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/City/Drogheda.public.md) 
 
-### [Drogheda.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\CityDrogheda.protect.md) 
+### [Drogheda.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/City/Drogheda.internal.md) 
 
-### [Drogheda.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\CityDrogheda.private.md) 
+### [Drogheda.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/City/Drogheda.protect.md) 
 
-### [Drogheda.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\CityDrogheda.personal.md) 
+### [Drogheda.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/City/Drogheda.private.md) 
 
-### [Drogheda.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\CityDrogheda.secret.md)
+### [Drogheda.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/City/Drogheda.personal.md) 
+
+### [Drogheda.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/City/Drogheda.secret.md)
 

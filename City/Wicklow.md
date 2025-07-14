@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wicklow.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\CityWicklow.public.md) 
+### [Wicklow](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.md) 
 
-### [Wicklow.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\CityWicklow.internal.md) 
+### [Wicklow.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.public.md) 
 
-### [Wicklow.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\CityWicklow.protect.md) 
+### [Wicklow.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.internal.md) 
 
-### [Wicklow.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\CityWicklow.private.md) 
+### [Wicklow.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.protect.md) 
 
-### [Wicklow.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\CityWicklow.personal.md) 
+### [Wicklow.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.private.md) 
 
-### [Wicklow.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\CityWicklow.secret.md)
+### [Wicklow.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.personal.md) 
+
+### [Wicklow.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Kildare/
 
 ## Confidential Links & Embeds: 
 
-### [Kildare.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterKildare.public.md) 
+### [Kildare](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Kildare.md) 
 
-### [Kildare.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterKildare.internal.md) 
+### [Kildare.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Kildare.public.md) 
 
-### [Kildare.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterKildare.protect.md) 
+### [Kildare.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Kildare.internal.md) 
 
-### [Kildare.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterKildare.private.md) 
+### [Kildare.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Kildare.protect.md) 
 
-### [Kildare.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterKildare.personal.md) 
+### [Kildare.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Kildare.private.md) 
 
-### [Kildare.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterKildare.secret.md)
+### [Kildare.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Kildare.personal.md) 
+
+### [Kildare.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Kildare.secret.md)
 

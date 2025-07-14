@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Howath.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\CityHowath.public.md) 
+### [Howath](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Howath.md) 
 
-### [Howath.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\CityHowath.internal.md) 
+### [Howath.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Howath.public.md) 
 
-### [Howath.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\CityHowath.protect.md) 
+### [Howath.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Howath.internal.md) 
 
-### [Howath.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\CityHowath.private.md) 
+### [Howath.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Howath.protect.md) 
 
-### [Howath.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\CityHowath.personal.md) 
+### [Howath.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Howath.private.md) 
 
-### [Howath.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\CityHowath.secret.md)
+### [Howath.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Howath.personal.md) 
+
+### [Howath.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Howath.secret.md)
 

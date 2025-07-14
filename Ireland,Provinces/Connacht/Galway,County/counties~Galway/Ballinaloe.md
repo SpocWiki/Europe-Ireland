@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ballinaloe.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayBallinaloe.public.md) 
+### [Ballinaloe](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County/counties~Galway/Ballinaloe.md) 
 
-### [Ballinaloe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayBallinaloe.internal.md) 
+### [Ballinaloe.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County/counties~Galway/Ballinaloe.public.md) 
 
-### [Ballinaloe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayBallinaloe.protect.md) 
+### [Ballinaloe.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County/counties~Galway/Ballinaloe.internal.md) 
 
-### [Ballinaloe.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayBallinaloe.private.md) 
+### [Ballinaloe.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County/counties~Galway/Ballinaloe.protect.md) 
 
-### [Ballinaloe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayBallinaloe.personal.md) 
+### [Ballinaloe.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County/counties~Galway/Ballinaloe.private.md) 
 
-### [Ballinaloe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayBallinaloe.secret.md)
+### [Ballinaloe.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County/counties~Galway/Ballinaloe.personal.md) 
+
+### [Ballinaloe.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County/counties~Galway/Ballinaloe.secret.md)
 

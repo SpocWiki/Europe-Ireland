@@ -41,15 +41,17 @@ markerFolder: ./Monaghan/
 
 ## Confidential Links & Embeds: 
 
-### [Monaghan.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\UlsterMonaghan.public.md) 
+### [Monaghan](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan.md) 
 
-### [Monaghan.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\UlsterMonaghan.internal.md) 
+### [Monaghan.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan.public.md) 
 
-### [Monaghan.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\UlsterMonaghan.protect.md) 
+### [Monaghan.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan.internal.md) 
 
-### [Monaghan.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\UlsterMonaghan.private.md) 
+### [Monaghan.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan.protect.md) 
 
-### [Monaghan.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\UlsterMonaghan.personal.md) 
+### [Monaghan.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan.private.md) 
 
-### [Monaghan.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\UlsterMonaghan.secret.md)
+### [Monaghan.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan.personal.md) 
+
+### [Monaghan.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan.secret.md)
 

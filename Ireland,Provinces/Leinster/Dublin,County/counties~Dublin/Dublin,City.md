@@ -38,15 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dublin,City.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinDublin,City.public.md) 
+### [Dublin,City](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Dublin,City.md) 
 
-### [Dublin,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinDublin,City.internal.md) 
+### [Dublin,City.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Dublin,City.public.md) 
 
-### [Dublin,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinDublin,City.protect.md) 
+### [Dublin,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Dublin,City.internal.md) 
 
-### [Dublin,City.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinDublin,City.private.md) 
+### [Dublin,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Dublin,City.protect.md) 
 
-### [Dublin,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinDublin,City.personal.md) 
+### [Dublin,City.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Dublin,City.private.md) 
 
-### [Dublin,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinDublin,City.secret.md)
+### [Dublin,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Dublin,City.personal.md) 
+
+### [Dublin,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Dublin,City.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dalkey.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\CityDalkey.public.md) 
+### [Dalkey](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Dalkey.md) 
 
-### [Dalkey.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\CityDalkey.internal.md) 
+### [Dalkey.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Dalkey.public.md) 
 
-### [Dalkey.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\CityDalkey.protect.md) 
+### [Dalkey.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Dalkey.internal.md) 
 
-### [Dalkey.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\CityDalkey.private.md) 
+### [Dalkey.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Dalkey.protect.md) 
 
-### [Dalkey.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\CityDalkey.personal.md) 
+### [Dalkey.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Dalkey.private.md) 
 
-### [Dalkey.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\CityDalkey.secret.md)
+### [Dalkey.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Dalkey.personal.md) 
+
+### [Dalkey.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Dalkey.secret.md)
 

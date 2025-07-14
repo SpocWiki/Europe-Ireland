@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cavan.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Cavan\CityCavan.public.md) 
+### [Cavan](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Cavan/City/Cavan.md) 
 
-### [Cavan.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Cavan\CityCavan.internal.md) 
+### [Cavan.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Cavan/City/Cavan.public.md) 
 
-### [Cavan.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Cavan\CityCavan.protect.md) 
+### [Cavan.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Cavan/City/Cavan.internal.md) 
 
-### [Cavan.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Cavan\CityCavan.private.md) 
+### [Cavan.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Cavan/City/Cavan.protect.md) 
 
-### [Cavan.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Cavan\CityCavan.personal.md) 
+### [Cavan.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Cavan/City/Cavan.private.md) 
 
-### [Cavan.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Cavan\CityCavan.secret.md)
+### [Cavan.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Cavan/City/Cavan.personal.md) 
+
+### [Cavan.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Cavan/City/Cavan.secret.md)
 

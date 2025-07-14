@@ -41,15 +41,17 @@ markerFolder: ./Leitrim/
 
 ## Confidential Links & Embeds: 
 
-### [Leitrim.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtLeitrim.public.md) 
+### [Leitrim](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Leitrim.md) 
 
-### [Leitrim.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtLeitrim.internal.md) 
+### [Leitrim.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Leitrim.public.md) 
 
-### [Leitrim.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtLeitrim.protect.md) 
+### [Leitrim.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Leitrim.internal.md) 
 
-### [Leitrim.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtLeitrim.private.md) 
+### [Leitrim.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Leitrim.protect.md) 
 
-### [Leitrim.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtLeitrim.personal.md) 
+### [Leitrim.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Leitrim.private.md) 
 
-### [Leitrim.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtLeitrim.secret.md)
+### [Leitrim.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Leitrim.personal.md) 
+
+### [Leitrim.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Leitrim.secret.md)
 

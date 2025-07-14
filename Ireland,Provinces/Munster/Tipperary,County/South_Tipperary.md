@@ -43,15 +43,17 @@ markerFolder: ./South_Tipperary/
 
 ## Confidential Links & Embeds: 
 
-### [South_Tipperary.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,CountySouth_Tipperary.public.md) 
+### [South_Tipperary](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary.md) 
 
-### [South_Tipperary.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,CountySouth_Tipperary.internal.md) 
+### [South_Tipperary.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary.public.md) 
 
-### [South_Tipperary.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,CountySouth_Tipperary.protect.md) 
+### [South_Tipperary.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary.internal.md) 
 
-### [South_Tipperary.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,CountySouth_Tipperary.private.md) 
+### [South_Tipperary.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary.protect.md) 
 
-### [South_Tipperary.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,CountySouth_Tipperary.personal.md) 
+### [South_Tipperary.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary.private.md) 
 
-### [South_Tipperary.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,CountySouth_Tipperary.secret.md)
+### [South_Tipperary.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary.personal.md) 
+
+### [South_Tipperary.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Killarney.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\CityKillarney.public.md) 
+### [Killarney](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.md) 
 
-### [Killarney.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\CityKillarney.internal.md) 
+### [Killarney.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.public.md) 
 
-### [Killarney.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\CityKillarney.protect.md) 
+### [Killarney.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.internal.md) 
 
-### [Killarney.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\CityKillarney.private.md) 
+### [Killarney.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.protect.md) 
 
-### [Killarney.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\CityKillarney.personal.md) 
+### [Killarney.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.private.md) 
 
-### [Killarney.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\CityKillarney.secret.md)
+### [Killarney.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.personal.md) 
+
+### [Killarney.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.secret.md)
 

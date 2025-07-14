@@ -41,15 +41,17 @@ markerFolder: ./Wexford/
 
 ## Confidential Links & Embeds: 
 
-### [Wexford.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterWexford.public.md) 
+### [Wexford](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wexford.md) 
 
-### [Wexford.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterWexford.internal.md) 
+### [Wexford.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wexford.public.md) 
 
-### [Wexford.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterWexford.protect.md) 
+### [Wexford.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wexford.internal.md) 
 
-### [Wexford.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterWexford.private.md) 
+### [Wexford.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wexford.protect.md) 
 
-### [Wexford.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterWexford.personal.md) 
+### [Wexford.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wexford.private.md) 
 
-### [Wexford.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterWexford.secret.md)
+### [Wexford.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wexford.personal.md) 
+
+### [Wexford.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wexford.secret.md)
 

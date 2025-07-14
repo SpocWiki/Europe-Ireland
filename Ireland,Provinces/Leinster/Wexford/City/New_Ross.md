@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [New_Ross.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Wexford\CityNew_Ross.public.md) 
+### [New_Ross](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wexford/City/New_Ross.md) 
 
-### [New_Ross.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Wexford\CityNew_Ross.internal.md) 
+### [New_Ross.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wexford/City/New_Ross.public.md) 
 
-### [New_Ross.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Wexford\CityNew_Ross.protect.md) 
+### [New_Ross.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wexford/City/New_Ross.internal.md) 
 
-### [New_Ross.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Wexford\CityNew_Ross.private.md) 
+### [New_Ross.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wexford/City/New_Ross.protect.md) 
 
-### [New_Ross.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Wexford\CityNew_Ross.personal.md) 
+### [New_Ross.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wexford/City/New_Ross.private.md) 
 
-### [New_Ross.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Wexford\CityNew_Ross.secret.md)
+### [New_Ross.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wexford/City/New_Ross.personal.md) 
+
+### [New_Ross.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Wexford/City/New_Ross.secret.md)
 

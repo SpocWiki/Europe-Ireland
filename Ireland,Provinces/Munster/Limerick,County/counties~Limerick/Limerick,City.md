@@ -39,15 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Limerick,City.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Limerick,County\counties~LimerickLimerick,City.public.md) 
+### [Limerick,City](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/counties~Limerick/Limerick,City.md) 
 
-### [Limerick,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Limerick,County\counties~LimerickLimerick,City.internal.md) 
+### [Limerick,City.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/counties~Limerick/Limerick,City.public.md) 
 
-### [Limerick,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Limerick,County\counties~LimerickLimerick,City.protect.md) 
+### [Limerick,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/counties~Limerick/Limerick,City.internal.md) 
 
-### [Limerick,City.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Limerick,County\counties~LimerickLimerick,City.private.md) 
+### [Limerick,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/counties~Limerick/Limerick,City.protect.md) 
 
-### [Limerick,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Limerick,County\counties~LimerickLimerick,City.personal.md) 
+### [Limerick,City.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/counties~Limerick/Limerick,City.private.md) 
 
-### [Limerick,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Limerick,County\counties~LimerickLimerick,City.secret.md)
+### [Limerick,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/counties~Limerick/Limerick,City.personal.md) 
+
+### [Limerick,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/counties~Limerick/Limerick,City.secret.md)
 

@@ -16,19 +16,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Navan)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Navan.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\counties~MeathNavan.public.md) 
+### [Navan](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/counties~Meath/Navan.md) 
 
-### [Navan.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\counties~MeathNavan.internal.md) 
+### [Navan.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/counties~Meath/Navan.public.md) 
 
-### [Navan.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\counties~MeathNavan.protect.md) 
+### [Navan.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/counties~Meath/Navan.internal.md) 
 
-### [Navan.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\counties~MeathNavan.private.md) 
+### [Navan.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/counties~Meath/Navan.protect.md) 
 
-### [Navan.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\counties~MeathNavan.personal.md) 
+### [Navan.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/counties~Meath/Navan.private.md) 
 
-### [Navan.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\counties~MeathNavan.secret.md)
+### [Navan.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/counties~Meath/Navan.personal.md) 
+
+### [Navan.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/counties~Meath/Navan.secret.md)
 

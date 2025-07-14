@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Markree.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Sligo\CityMarkree.public.md) 
+### [Markree](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Sligo/City/Markree.md) 
 
-### [Markree.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Sligo\CityMarkree.internal.md) 
+### [Markree.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Sligo/City/Markree.public.md) 
 
-### [Markree.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Sligo\CityMarkree.protect.md) 
+### [Markree.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Sligo/City/Markree.internal.md) 
 
-### [Markree.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Sligo\CityMarkree.private.md) 
+### [Markree.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Sligo/City/Markree.protect.md) 
 
-### [Markree.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Sligo\CityMarkree.personal.md) 
+### [Markree.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Sligo/City/Markree.private.md) 
 
-### [Markree.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Sligo\CityMarkree.secret.md)
+### [Markree.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Sligo/City/Markree.personal.md) 
+
+### [Markree.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Sligo/City/Markree.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./South_Dublin/
 
 ## Confidential Links & Embeds: 
 
-### [South_Dublin.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinSouth_Dublin.public.md) 
+### [South_Dublin](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin.md) 
 
-### [South_Dublin.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinSouth_Dublin.internal.md) 
+### [South_Dublin.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin.public.md) 
 
-### [South_Dublin.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinSouth_Dublin.protect.md) 
+### [South_Dublin.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin.internal.md) 
 
-### [South_Dublin.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinSouth_Dublin.private.md) 
+### [South_Dublin.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin.protect.md) 
 
-### [South_Dublin.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinSouth_Dublin.personal.md) 
+### [South_Dublin.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin.private.md) 
 
-### [South_Dublin.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinSouth_Dublin.secret.md)
+### [South_Dublin.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin.personal.md) 
+
+### [South_Dublin.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin.secret.md)
 

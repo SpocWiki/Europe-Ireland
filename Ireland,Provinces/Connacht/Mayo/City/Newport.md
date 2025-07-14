@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Newport.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Mayo\CityNewport.public.md) 
+### [Newport](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Mayo/City/Newport.md) 
 
-### [Newport.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Mayo\CityNewport.internal.md) 
+### [Newport.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Mayo/City/Newport.public.md) 
 
-### [Newport.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Mayo\CityNewport.protect.md) 
+### [Newport.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Mayo/City/Newport.internal.md) 
 
-### [Newport.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Mayo\CityNewport.private.md) 
+### [Newport.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Mayo/City/Newport.protect.md) 
 
-### [Newport.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Mayo\CityNewport.personal.md) 
+### [Newport.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Mayo/City/Newport.private.md) 
 
-### [Newport.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Mayo\CityNewport.secret.md)
+### [Newport.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Mayo/City/Newport.personal.md) 
+
+### [Newport.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Mayo/City/Newport.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Monaghan.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Monaghan\CityMonaghan.public.md) 
+### [Monaghan](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan/City/Monaghan.md) 
 
-### [Monaghan.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Monaghan\CityMonaghan.internal.md) 
+### [Monaghan.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan/City/Monaghan.public.md) 
 
-### [Monaghan.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Monaghan\CityMonaghan.protect.md) 
+### [Monaghan.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan/City/Monaghan.internal.md) 
 
-### [Monaghan.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Monaghan\CityMonaghan.private.md) 
+### [Monaghan.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan/City/Monaghan.protect.md) 
 
-### [Monaghan.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Monaghan\CityMonaghan.personal.md) 
+### [Monaghan.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan/City/Monaghan.private.md) 
 
-### [Monaghan.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Monaghan\CityMonaghan.secret.md)
+### [Monaghan.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan/City/Monaghan.personal.md) 
+
+### [Monaghan.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan/City/Monaghan.secret.md)
 

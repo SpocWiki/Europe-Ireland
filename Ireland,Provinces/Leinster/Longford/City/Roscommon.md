@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Roscommon.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Longford\CityRoscommon.public.md) 
+### [Roscommon](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Longford/City/Roscommon.md) 
 
-### [Roscommon.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Longford\CityRoscommon.internal.md) 
+### [Roscommon.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Longford/City/Roscommon.public.md) 
 
-### [Roscommon.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Longford\CityRoscommon.protect.md) 
+### [Roscommon.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Longford/City/Roscommon.internal.md) 
 
-### [Roscommon.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Longford\CityRoscommon.private.md) 
+### [Roscommon.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Longford/City/Roscommon.protect.md) 
 
-### [Roscommon.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Longford\CityRoscommon.personal.md) 
+### [Roscommon.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Longford/City/Roscommon.private.md) 
 
-### [Roscommon.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Longford\CityRoscommon.secret.md)
+### [Roscommon.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Longford/City/Roscommon.personal.md) 
+
+### [Roscommon.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Longford/City/Roscommon.secret.md)
 

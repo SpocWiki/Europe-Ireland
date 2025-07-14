@@ -9,20 +9,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Munster) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Munster.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesMunster.public.md) 
+### [Munster](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster.md) 
 
-### [Munster.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesMunster.internal.md) 
+### [Munster.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster.public.md) 
 
-### [Munster.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesMunster.protect.md) 
+### [Munster.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster.internal.md) 
 
-### [Munster.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesMunster.private.md) 
+### [Munster.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster.protect.md) 
 
-### [Munster.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesMunster.personal.md) 
+### [Munster.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster.private.md) 
 
-### [Munster.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesMunster.secret.md)
+### [Munster.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster.personal.md) 
+
+### [Munster.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster.secret.md)
 

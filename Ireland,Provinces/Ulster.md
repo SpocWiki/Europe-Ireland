@@ -15,19 +15,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Ulster)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Ulster.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesUlster.public.md) 
+### [Ulster](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster.md) 
 
-### [Ulster.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesUlster.internal.md) 
+### [Ulster.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster.public.md) 
 
-### [Ulster.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesUlster.protect.md) 
+### [Ulster.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster.internal.md) 
 
-### [Ulster.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesUlster.private.md) 
+### [Ulster.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster.protect.md) 
 
-### [Ulster.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesUlster.personal.md) 
+### [Ulster.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster.private.md) 
 
-### [Ulster.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesUlster.secret.md)
+### [Ulster.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster.personal.md) 
+
+### [Ulster.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster.secret.md)
 

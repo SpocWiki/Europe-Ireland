@@ -41,15 +41,17 @@ markerFolder: ./Kerry/
 
 ## Confidential Links & Embeds: 
 
-### [Kerry.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterKerry.public.md) 
+### [Kerry](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry.md) 
 
-### [Kerry.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterKerry.internal.md) 
+### [Kerry.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry.public.md) 
 
-### [Kerry.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterKerry.protect.md) 
+### [Kerry.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry.internal.md) 
 
-### [Kerry.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterKerry.private.md) 
+### [Kerry.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry.protect.md) 
 
-### [Kerry.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterKerry.personal.md) 
+### [Kerry.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry.private.md) 
 
-### [Kerry.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterKerry.secret.md)
+### [Kerry.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry.personal.md) 
+
+### [Kerry.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry.secret.md)
 

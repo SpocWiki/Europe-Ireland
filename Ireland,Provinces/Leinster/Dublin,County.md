@@ -41,15 +41,17 @@ markerFolder: ./Dublin/
 
 ## Confidential Links & Embeds: 
 
-### [Dublin,County.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterDublin,County.public.md) 
+### [Dublin,County](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County.md) 
 
-### [Dublin,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterDublin,County.internal.md) 
+### [Dublin,County.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County.public.md) 
 
-### [Dublin,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterDublin,County.protect.md) 
+### [Dublin,County.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County.internal.md) 
 
-### [Dublin,County.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterDublin,County.private.md) 
+### [Dublin,County.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County.protect.md) 
 
-### [Dublin,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterDublin,County.personal.md) 
+### [Dublin,County.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County.private.md) 
 
-### [Dublin,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterDublin,County.secret.md)
+### [Dublin,County.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County.personal.md) 
+
+### [Dublin,County.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kinsale.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\CityKinsale.public.md) 
+### [Kinsale](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.md) 
 
-### [Kinsale.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\CityKinsale.internal.md) 
+### [Kinsale.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.public.md) 
 
-### [Kinsale.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\CityKinsale.protect.md) 
+### [Kinsale.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.internal.md) 
 
-### [Kinsale.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\CityKinsale.private.md) 
+### [Kinsale.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.protect.md) 
 
-### [Kinsale.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\CityKinsale.personal.md) 
+### [Kinsale.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.private.md) 
 
-### [Kinsale.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\CityKinsale.secret.md)
+### [Kinsale.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.personal.md) 
+
+### [Kinsale.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.secret.md)
 

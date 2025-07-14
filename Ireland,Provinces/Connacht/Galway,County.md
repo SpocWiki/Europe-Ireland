@@ -41,15 +41,17 @@ markerFolder: ./Galway/
 
 ## Confidential Links & Embeds: 
 
-### [Galway,County.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtGalway,County.public.md) 
+### [Galway,County](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County.md) 
 
-### [Galway,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtGalway,County.internal.md) 
+### [Galway,County.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County.public.md) 
 
-### [Galway,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtGalway,County.protect.md) 
+### [Galway,County.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County.internal.md) 
 
-### [Galway,County.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtGalway,County.private.md) 
+### [Galway,County.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County.protect.md) 
 
-### [Galway,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtGalway,County.personal.md) 
+### [Galway,County.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County.private.md) 
 
-### [Galway,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtGalway,County.secret.md)
+### [Galway,County.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County.personal.md) 
+
+### [Galway,County.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County.secret.md)
 

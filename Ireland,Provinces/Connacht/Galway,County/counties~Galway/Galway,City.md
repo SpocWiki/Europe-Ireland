@@ -39,15 +39,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Galway,City.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayGalway,City.public.md) 
+### [Galway,City](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County/counties~Galway/Galway,City.md) 
 
-### [Galway,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayGalway,City.internal.md) 
+### [Galway,City.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County/counties~Galway/Galway,City.public.md) 
 
-### [Galway,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayGalway,City.protect.md) 
+### [Galway,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County/counties~Galway/Galway,City.internal.md) 
 
-### [Galway,City.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayGalway,City.private.md) 
+### [Galway,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County/counties~Galway/Galway,City.protect.md) 
 
-### [Galway,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayGalway,City.personal.md) 
+### [Galway,City.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County/counties~Galway/Galway,City.private.md) 
 
-### [Galway,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayGalway,City.secret.md)
+### [Galway,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County/counties~Galway/Galway,City.personal.md) 
+
+### [Galway,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht/Galway,County/counties~Galway/Galway,City.secret.md)
 
