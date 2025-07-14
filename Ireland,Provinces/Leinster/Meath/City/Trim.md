@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Trim|Trim]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Trim.public|Trim.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Trim.internal|Trim.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Trim.protect|Trim.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Trim.private|Trim.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Trim.personal|Trim.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Trim.secret|Trim.secret]] 
+
+### [Trim.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\CityTrim.public.md) 
+
+### [Trim.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\CityTrim.internal.md) 
+
+### [Trim.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\CityTrim.protect.md) 
+
+### [Trim.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\CityTrim.private.md) 
+
+### [Trim.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\CityTrim.personal.md) 
+
+### [Trim.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\CityTrim.secret.md)
+

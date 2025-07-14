@@ -14,3 +14,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ulster)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Ulster.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesUlster.public.md) 
+
+### [Ulster.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesUlster.internal.md) 
+
+### [Ulster.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesUlster.protect.md) 
+
+### [Ulster.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesUlster.private.md) 
+
+### [Ulster.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesUlster.personal.md) 
+
+### [Ulster.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesUlster.secret.md)
+

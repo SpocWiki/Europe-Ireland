@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Blarney|Blarney]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Blarney.public|Blarney.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Blarney.internal|Blarney.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Blarney.protect|Blarney.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Blarney.private|Blarney.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Blarney.personal|Blarney.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Blarney.secret|Blarney.secret]] 
+
+### [Blarney.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityBlarney.public.md) 
+
+### [Blarney.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityBlarney.internal.md) 
+
+### [Blarney.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityBlarney.protect.md) 
+
+### [Blarney.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityBlarney.private.md) 
+
+### [Blarney.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityBlarney.personal.md) 
+
+### [Blarney.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityBlarney.secret.md)
+

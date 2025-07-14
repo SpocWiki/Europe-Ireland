@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Westport|Westport]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Westport.public|Westport.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Westport.internal|Westport.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Westport.protect|Westport.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Westport.private|Westport.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Westport.personal|Westport.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Westport.secret|Westport.secret]] 
+
+### [Westport.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Mayo\CityWestport.public.md) 
+
+### [Westport.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Mayo\CityWestport.internal.md) 
+
+### [Westport.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Mayo\CityWestport.protect.md) 
+
+### [Westport.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Mayo\CityWestport.private.md) 
+
+### [Westport.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Mayo\CityWestport.personal.md) 
+
+### [Westport.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Mayo\CityWestport.secret.md)
+

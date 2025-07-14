@@ -40,11 +40,16 @@ markerFolder: ./Fingal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Fingal|Fingal]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Fingal.public|Fingal.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Fingal.internal|Fingal.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Fingal.protect|Fingal.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Fingal.private|Fingal.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Fingal.personal|Fingal.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Fingal.secret|Fingal.secret]] 
+
+### [Fingal.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Counties~IrelandFingal.public.md) 
+
+### [Fingal.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Counties~IrelandFingal.internal.md) 
+
+### [Fingal.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Counties~IrelandFingal.protect.md) 
+
+### [Fingal.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Counties~IrelandFingal.private.md) 
+
+### [Fingal.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Counties~IrelandFingal.personal.md) 
+
+### [Fingal.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Counties~IrelandFingal.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Westmeath/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Westmeath|Westmeath]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Westmeath.public|Westmeath.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Westmeath.internal|Westmeath.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Westmeath.protect|Westmeath.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Westmeath.private|Westmeath.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Westmeath.personal|Westmeath.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Westmeath.secret|Westmeath.secret]] 
+
+### [Westmeath.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterWestmeath.public.md) 
+
+### [Westmeath.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterWestmeath.internal.md) 
+
+### [Westmeath.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterWestmeath.protect.md) 
+
+### [Westmeath.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterWestmeath.private.md) 
+
+### [Westmeath.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterWestmeath.personal.md) 
+
+### [Westmeath.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterWestmeath.secret.md)
 

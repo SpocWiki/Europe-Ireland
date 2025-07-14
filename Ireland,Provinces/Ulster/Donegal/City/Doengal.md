@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Doengal|Doengal]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Doengal.public|Doengal.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Doengal.internal|Doengal.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Doengal.protect|Doengal.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Doengal.private|Doengal.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Doengal.personal|Doengal.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Doengal.secret|Doengal.secret]] 
+
+### [Doengal.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Donegal\CityDoengal.public.md) 
+
+### [Doengal.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Donegal\CityDoengal.internal.md) 
+
+### [Doengal.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Donegal\CityDoengal.protect.md) 
+
+### [Doengal.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Donegal\CityDoengal.private.md) 
+
+### [Doengal.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Donegal\CityDoengal.personal.md) 
+
+### [Doengal.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Donegal\CityDoengal.secret.md)
+

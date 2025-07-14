@@ -43,11 +43,16 @@ markerFolder: ./North_Tipperary/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/North_Tipperary|North_Tipperary]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/North_Tipperary.public|North_Tipperary.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/North_Tipperary.internal|North_Tipperary.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/North_Tipperary.protect|North_Tipperary.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/North_Tipperary.private|North_Tipperary.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/North_Tipperary.personal|North_Tipperary.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/North_Tipperary.secret|North_Tipperary.secret]] 
+
+### [North_Tipperary.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,CountyNorth_Tipperary.public.md) 
+
+### [North_Tipperary.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,CountyNorth_Tipperary.internal.md) 
+
+### [North_Tipperary.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,CountyNorth_Tipperary.protect.md) 
+
+### [North_Tipperary.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,CountyNorth_Tipperary.private.md) 
+
+### [North_Tipperary.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,CountyNorth_Tipperary.personal.md) 
+
+### [North_Tipperary.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,CountyNorth_Tipperary.secret.md)
 

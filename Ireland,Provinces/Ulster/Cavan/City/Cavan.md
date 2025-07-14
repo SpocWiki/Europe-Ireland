@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Cavan|Cavan]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Cavan.public|Cavan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Cavan.internal|Cavan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Cavan.protect|Cavan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Cavan.private|Cavan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Cavan.personal|Cavan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Cavan.secret|Cavan.secret]] 
+
+### [Cavan.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Cavan\CityCavan.public.md) 
+
+### [Cavan.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Cavan\CityCavan.internal.md) 
+
+### [Cavan.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Cavan\CityCavan.protect.md) 
+
+### [Cavan.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Cavan\CityCavan.private.md) 
+
+### [Cavan.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Cavan\CityCavan.personal.md) 
+
+### [Cavan.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Ulster\Cavan\CityCavan.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Waterford|Waterford]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Waterford.public|Waterford.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Waterford.internal|Waterford.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Waterford.protect|Waterford.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Waterford.private|Waterford.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Waterford.personal|Waterford.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Waterford.secret|Waterford.secret]] 
+
+### [Waterford,City.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Waterford,County\counties~WaterfordWaterford,City.public.md) 
+
+### [Waterford,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Waterford,County\counties~WaterfordWaterford,City.internal.md) 
+
+### [Waterford,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Waterford,County\counties~WaterfordWaterford,City.protect.md) 
+
+### [Waterford,City.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Waterford,County\counties~WaterfordWaterford,City.private.md) 
+
+### [Waterford,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Waterford,County\counties~WaterfordWaterford,City.personal.md) 
+
+### [Waterford,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Waterford,County\counties~WaterfordWaterford,City.secret.md)
+

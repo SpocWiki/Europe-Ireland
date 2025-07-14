@@ -40,11 +40,16 @@ markerFolder: ./Sligo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Sligo|Sligo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Sligo.public|Sligo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Sligo.internal|Sligo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Sligo.protect|Sligo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Sligo.private|Sligo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Sligo.personal|Sligo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Sligo.secret|Sligo.secret]] 
+
+### [Sligo.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtSligo.public.md) 
+
+### [Sligo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtSligo.internal.md) 
+
+### [Sligo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtSligo.protect.md) 
+
+### [Sligo.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtSligo.private.md) 
+
+### [Sligo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtSligo.personal.md) 
+
+### [Sligo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtSligo.secret.md)
 

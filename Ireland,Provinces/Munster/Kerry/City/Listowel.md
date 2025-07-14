@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Listowel|Listowel]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Listowel.public|Listowel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Listowel.internal|Listowel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Listowel.protect|Listowel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Listowel.private|Listowel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Listowel.personal|Listowel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Listowel.secret|Listowel.secret]] 
+
+### [Listowel.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Kerry\CityListowel.public.md) 
+
+### [Listowel.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Kerry\CityListowel.internal.md) 
+
+### [Listowel.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Kerry\CityListowel.protect.md) 
+
+### [Listowel.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Kerry\CityListowel.private.md) 
+
+### [Listowel.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Kerry\CityListowel.personal.md) 
+
+### [Listowel.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Kerry\CityListowel.secret.md)
+

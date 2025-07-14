@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Sligo|Sligo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Sligo.public|Sligo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Sligo.internal|Sligo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Sligo.protect|Sligo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Sligo.private|Sligo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Sligo.personal|Sligo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Sligo.secret|Sligo.secret]] 
+
+### [Sligo.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Leitrim\CitySligo.public.md) 
+
+### [Sligo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Leitrim\CitySligo.internal.md) 
+
+### [Sligo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Leitrim\CitySligo.protect.md) 
+
+### [Sligo.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Leitrim\CitySligo.private.md) 
+
+### [Sligo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Leitrim\CitySligo.personal.md) 
+
+### [Sligo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Leitrim\CitySligo.secret.md)
+

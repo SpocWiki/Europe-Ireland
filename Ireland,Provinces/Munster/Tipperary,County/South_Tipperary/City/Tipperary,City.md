@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Tipperary|Tipperary]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Tipperary.public|Tipperary.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Tipperary.internal|Tipperary.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Tipperary.protect|Tipperary.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Tipperary.private|Tipperary.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Tipperary.personal|Tipperary.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Tipperary.secret|Tipperary.secret]] 
+
+### [Tipperary,City.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityTipperary,City.public.md) 
+
+### [Tipperary,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityTipperary,City.internal.md) 
+
+### [Tipperary,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityTipperary,City.protect.md) 
+
+### [Tipperary,City.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityTipperary,City.private.md) 
+
+### [Tipperary,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityTipperary,City.personal.md) 
+
+### [Tipperary,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityTipperary,City.secret.md)
+

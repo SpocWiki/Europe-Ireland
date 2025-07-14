@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Ballinaloe|Ballinaloe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Ballinaloe.public|Ballinaloe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Ballinaloe.internal|Ballinaloe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Ballinaloe.protect|Ballinaloe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Ballinaloe.private|Ballinaloe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Ballinaloe.personal|Ballinaloe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Ballinaloe.secret|Ballinaloe.secret]] 
+
+### [Ballinaloe.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayBallinaloe.public.md) 
+
+### [Ballinaloe.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayBallinaloe.internal.md) 
+
+### [Ballinaloe.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayBallinaloe.protect.md) 
+
+### [Ballinaloe.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayBallinaloe.private.md) 
+
+### [Ballinaloe.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayBallinaloe.personal.md) 
+
+### [Ballinaloe.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayBallinaloe.secret.md)
+

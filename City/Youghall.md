@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Youghall|Youghall]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Youghall.public|Youghall.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Youghall.internal|Youghall.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Youghall.protect|Youghall.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Youghall.private|Youghall.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Youghall.personal|Youghall.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Youghall.secret|Youghall.secret]] 
+
+### [Youghall.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\CityYoughall.public.md) 
+
+### [Youghall.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\CityYoughall.internal.md) 
+
+### [Youghall.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\CityYoughall.protect.md) 
+
+### [Youghall.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\CityYoughall.private.md) 
+
+### [Youghall.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\CityYoughall.personal.md) 
+
+### [Youghall.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\CityYoughall.secret.md)
+

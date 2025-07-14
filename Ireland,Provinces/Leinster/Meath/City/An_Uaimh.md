@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/An_Uaimh|An_Uaimh]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/An_Uaimh.public|An_Uaimh.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/An_Uaimh.internal|An_Uaimh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/An_Uaimh.protect|An_Uaimh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/An_Uaimh.private|An_Uaimh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/An_Uaimh.personal|An_Uaimh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/An_Uaimh.secret|An_Uaimh.secret]] 
+
+### [An_Uaimh.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\CityAn_Uaimh.public.md) 
+
+### [An_Uaimh.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\CityAn_Uaimh.internal.md) 
+
+### [An_Uaimh.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\CityAn_Uaimh.protect.md) 
+
+### [An_Uaimh.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\CityAn_Uaimh.private.md) 
+
+### [An_Uaimh.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\CityAn_Uaimh.personal.md) 
+
+### [An_Uaimh.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Meath\CityAn_Uaimh.secret.md)
+

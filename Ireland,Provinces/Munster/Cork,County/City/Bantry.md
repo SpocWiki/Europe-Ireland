@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Bantry|Bantry]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Bantry.public|Bantry.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Bantry.internal|Bantry.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Bantry.protect|Bantry.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Bantry.private|Bantry.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Bantry.personal|Bantry.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Bantry.secret|Bantry.secret]] 
+
+### [Bantry.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityBantry.public.md) 
+
+### [Bantry.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityBantry.internal.md) 
+
+### [Bantry.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityBantry.protect.md) 
+
+### [Bantry.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityBantry.private.md) 
+
+### [Bantry.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityBantry.personal.md) 
+
+### [Bantry.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityBantry.secret.md)
+

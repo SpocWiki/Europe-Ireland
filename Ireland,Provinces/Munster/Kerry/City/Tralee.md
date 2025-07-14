@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Tralee|Tralee]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Tralee.public|Tralee.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Tralee.internal|Tralee.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Tralee.protect|Tralee.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Tralee.private|Tralee.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Tralee.personal|Tralee.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Tralee.secret|Tralee.secret]] 
+
+### [Tralee.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Kerry\CityTralee.public.md) 
+
+### [Tralee.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Kerry\CityTralee.internal.md) 
+
+### [Tralee.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Kerry\CityTralee.protect.md) 
+
+### [Tralee.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Kerry\CityTralee.private.md) 
+
+### [Tralee.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Kerry\CityTralee.personal.md) 
+
+### [Tralee.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Kerry\CityTralee.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Mallow|Mallow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Mallow.public|Mallow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Mallow.internal|Mallow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Mallow.protect|Mallow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Mallow.private|Mallow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Mallow.personal|Mallow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Mallow.secret|Mallow.secret]] 
+
+### [Mallow.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityMallow.public.md) 
+
+### [Mallow.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityMallow.internal.md) 
+
+### [Mallow.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityMallow.protect.md) 
+
+### [Mallow.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityMallow.private.md) 
+
+### [Mallow.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityMallow.personal.md) 
+
+### [Mallow.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityMallow.secret.md)
+

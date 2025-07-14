@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Clonmel|Clonmel]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Clonmel.public|Clonmel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Clonmel.internal|Clonmel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Clonmel.protect|Clonmel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Clonmel.private|Clonmel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Clonmel.personal|Clonmel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Clonmel.secret|Clonmel.secret]] 
+
+### [Clonmel.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityClonmel.public.md) 
+
+### [Clonmel.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityClonmel.internal.md) 
+
+### [Clonmel.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityClonmel.protect.md) 
+
+### [Clonmel.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityClonmel.private.md) 
+
+### [Clonmel.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityClonmel.personal.md) 
+
+### [Clonmel.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Tipperary,County\South_Tipperary\CityClonmel.secret.md)
+

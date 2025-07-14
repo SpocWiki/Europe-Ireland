@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Birr_Castle|Birr_Castle]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Birr_Castle.public|Birr_Castle.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Birr_Castle.internal|Birr_Castle.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Birr_Castle.protect|Birr_Castle.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Birr_Castle.private|Birr_Castle.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Birr_Castle.personal|Birr_Castle.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Birr_Castle.secret|Birr_Castle.secret]] 
+
+### [Birr_Castle.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Offaly\CityBirr_Castle.public.md) 
+
+### [Birr_Castle.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Offaly\CityBirr_Castle.internal.md) 
+
+### [Birr_Castle.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Offaly\CityBirr_Castle.protect.md) 
+
+### [Birr_Castle.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Offaly\CityBirr_Castle.private.md) 
+
+### [Birr_Castle.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Offaly\CityBirr_Castle.personal.md) 
+
+### [Birr_Castle.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Offaly\CityBirr_Castle.secret.md)
+

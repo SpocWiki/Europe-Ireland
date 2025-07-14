@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Wexford|Wexford]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Wexford.public|Wexford.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Wexford.internal|Wexford.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Wexford.protect|Wexford.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Wexford.private|Wexford.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Wexford.personal|Wexford.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Wexford.secret|Wexford.secret]] 
+
+### [Wexford.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Wexford\CityWexford.public.md) 
+
+### [Wexford.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Wexford\CityWexford.internal.md) 
+
+### [Wexford.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Wexford\CityWexford.protect.md) 
+
+### [Wexford.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Wexford\CityWexford.private.md) 
+
+### [Wexford.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Wexford\CityWexford.personal.md) 
+
+### [Wexford.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Wexford\CityWexford.secret.md)
+

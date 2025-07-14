@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Killarney|Killarney]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Killarney.public|Killarney.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Killarney.internal|Killarney.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Killarney.protect|Killarney.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Killarney.private|Killarney.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Killarney.personal|Killarney.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Killarney.secret|Killarney.secret]] 
+
+### [Killarney.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\CityKillarney.public.md) 
+
+### [Killarney.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\CityKillarney.internal.md) 
+
+### [Killarney.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\CityKillarney.protect.md) 
+
+### [Killarney.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\CityKillarney.private.md) 
+
+### [Killarney.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\CityKillarney.personal.md) 
+
+### [Killarney.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\CityKillarney.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Dundalk|Dundalk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Dundalk.public|Dundalk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Dundalk.internal|Dundalk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Dundalk.protect|Dundalk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Dundalk.private|Dundalk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Dundalk.personal|Dundalk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Dundalk.secret|Dundalk.secret]] 
+
+### [Dundalk.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Louth\CityDundalk.public.md) 
+
+### [Dundalk.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Louth\CityDundalk.internal.md) 
+
+### [Dundalk.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Louth\CityDundalk.protect.md) 
+
+### [Dundalk.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Louth\CityDundalk.private.md) 
+
+### [Dundalk.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Louth\CityDundalk.personal.md) 
+
+### [Dundalk.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Louth\CityDundalk.secret.md)
+

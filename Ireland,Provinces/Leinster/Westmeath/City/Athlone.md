@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Athlone|Athlone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Athlone.public|Athlone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Athlone.internal|Athlone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Athlone.protect|Athlone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Athlone.private|Athlone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Athlone.personal|Athlone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Athlone.secret|Athlone.secret]] 
+
+### [Athlone.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Westmeath\CityAthlone.public.md) 
+
+### [Athlone.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Westmeath\CityAthlone.internal.md) 
+
+### [Athlone.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Westmeath\CityAthlone.protect.md) 
+
+### [Athlone.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Westmeath\CityAthlone.private.md) 
+
+### [Athlone.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Westmeath\CityAthlone.personal.md) 
+
+### [Athlone.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Westmeath\CityAthlone.secret.md)
+

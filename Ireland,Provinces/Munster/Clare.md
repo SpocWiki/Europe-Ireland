@@ -40,11 +40,16 @@ markerFolder: ./Clare/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Clare|Clare]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Clare.public|Clare.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Clare.internal|Clare.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Clare.protect|Clare.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Clare.private|Clare.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Clare.personal|Clare.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Clare.secret|Clare.secret]] 
+
+### [Clare.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterClare.public.md) 
+
+### [Clare.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterClare.internal.md) 
+
+### [Clare.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterClare.protect.md) 
+
+### [Clare.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterClare.private.md) 
+
+### [Clare.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterClare.personal.md) 
+
+### [Clare.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterClare.secret.md)
 

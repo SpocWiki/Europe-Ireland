@@ -40,11 +40,16 @@ markerFolder: ./Louth/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Louth|Louth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Louth.public|Louth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Louth.internal|Louth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Louth.protect|Louth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Louth.private|Louth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Louth.personal|Louth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Louth.secret|Louth.secret]] 
+
+### [Louth.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLouth.public.md) 
+
+### [Louth.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLouth.internal.md) 
+
+### [Louth.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLouth.protect.md) 
+
+### [Louth.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLouth.private.md) 
+
+### [Louth.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLouth.personal.md) 
+
+### [Louth.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterLouth.secret.md)
 

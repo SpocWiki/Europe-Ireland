@@ -16,3 +16,20 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Provinces%20of%20Ireland)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Provinces,Ireland.public](/_public/\Earth\Continent\Europe\Europe~North\IrelandProvinces,Ireland.public.md) 
+
+### [Provinces,Ireland.internal](/_internal/\Earth\Continent\Europe\Europe~North\IrelandProvinces,Ireland.internal.md) 
+
+### [Provinces,Ireland.protect](/_protect/\Earth\Continent\Europe\Europe~North\IrelandProvinces,Ireland.protect.md) 
+
+### [Provinces,Ireland.private](/_private/\Earth\Continent\Europe\Europe~North\IrelandProvinces,Ireland.private.md) 
+
+### [Provinces,Ireland.personal](/_personal/\Earth\Continent\Europe\Europe~North\IrelandProvinces,Ireland.personal.md) 
+
+### [Provinces,Ireland.secret](/_secret/\Earth\Continent\Europe\Europe~North\IrelandProvinces,Ireland.secret.md)
+

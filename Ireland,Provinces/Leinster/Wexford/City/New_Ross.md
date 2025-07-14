@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/New_Ross|New_Ross]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/New_Ross.public|New_Ross.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/New_Ross.internal|New_Ross.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/New_Ross.protect|New_Ross.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/New_Ross.private|New_Ross.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/New_Ross.personal|New_Ross.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/New_Ross.secret|New_Ross.secret]] 
+
+### [New_Ross.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Wexford\CityNew_Ross.public.md) 
+
+### [New_Ross.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Wexford\CityNew_Ross.internal.md) 
+
+### [New_Ross.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Wexford\CityNew_Ross.protect.md) 
+
+### [New_Ross.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Wexford\CityNew_Ross.private.md) 
+
+### [New_Ross.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Wexford\CityNew_Ross.personal.md) 
+
+### [New_Ross.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Wexford\CityNew_Ross.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Carlow/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Carlow|Carlow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Carlow.public|Carlow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Carlow.internal|Carlow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Carlow.protect|Carlow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Carlow.private|Carlow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Carlow.personal|Carlow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Carlow.secret|Carlow.secret]] 
+
+### [Carlow.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterCarlow.public.md) 
+
+### [Carlow.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterCarlow.internal.md) 
+
+### [Carlow.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterCarlow.protect.md) 
+
+### [Carlow.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterCarlow.private.md) 
+
+### [Carlow.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterCarlow.personal.md) 
+
+### [Carlow.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterCarlow.secret.md)
 

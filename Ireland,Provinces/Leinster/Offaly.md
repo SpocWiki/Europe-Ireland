@@ -40,11 +40,16 @@ markerFolder: ./Offaly/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Offaly|Offaly]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Offaly.public|Offaly.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Offaly.internal|Offaly.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Offaly.protect|Offaly.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Offaly.private|Offaly.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Offaly.personal|Offaly.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Offaly.secret|Offaly.secret]] 
+
+### [Offaly.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterOffaly.public.md) 
+
+### [Offaly.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterOffaly.internal.md) 
+
+### [Offaly.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterOffaly.protect.md) 
+
+### [Offaly.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterOffaly.private.md) 
+
+### [Offaly.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterOffaly.personal.md) 
+
+### [Offaly.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterOffaly.secret.md)
 

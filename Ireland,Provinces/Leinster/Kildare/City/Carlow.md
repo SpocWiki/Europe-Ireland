@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Carlow|Carlow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Carlow.public|Carlow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Carlow.internal|Carlow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Carlow.protect|Carlow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Carlow.private|Carlow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Carlow.personal|Carlow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Carlow.secret|Carlow.secret]] 
+
+### [Carlow.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Kildare\CityCarlow.public.md) 
+
+### [Carlow.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Kildare\CityCarlow.internal.md) 
+
+### [Carlow.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Kildare\CityCarlow.protect.md) 
+
+### [Carlow.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Kildare\CityCarlow.private.md) 
+
+### [Carlow.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Kildare\CityCarlow.personal.md) 
+
+### [Carlow.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Kildare\CityCarlow.secret.md)
+

@@ -24,3 +24,20 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Swords,%20Dublin)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Swords,Dublin.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\CitySwords,Dublin.public.md) 
+
+### [Swords,Dublin.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\CitySwords,Dublin.internal.md) 
+
+### [Swords,Dublin.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\CitySwords,Dublin.protect.md) 
+
+### [Swords,Dublin.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\CitySwords,Dublin.private.md) 
+
+### [Swords,Dublin.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\CitySwords,Dublin.personal.md) 
+
+### [Swords,Dublin.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\CitySwords,Dublin.secret.md)
+

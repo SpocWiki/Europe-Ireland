@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Queenstown|Queenstown]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Queenstown.public|Queenstown.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Queenstown.internal|Queenstown.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Queenstown.protect|Queenstown.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Queenstown.private|Queenstown.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Queenstown.personal|Queenstown.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Queenstown.secret|Queenstown.secret]] 
+
+### [Queenstown.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\CityQueenstown.public.md) 
+
+### [Queenstown.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\CityQueenstown.internal.md) 
+
+### [Queenstown.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\CityQueenstown.protect.md) 
+
+### [Queenstown.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\CityQueenstown.private.md) 
+
+### [Queenstown.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\CityQueenstown.personal.md) 
+
+### [Queenstown.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\CityQueenstown.secret.md)
+

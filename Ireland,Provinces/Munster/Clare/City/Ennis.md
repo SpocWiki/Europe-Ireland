@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Ennis|Ennis]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Ennis.public|Ennis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Ennis.internal|Ennis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Ennis.protect|Ennis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Ennis.private|Ennis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Ennis.personal|Ennis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Ennis.secret|Ennis.secret]] 
+
+### [Ennis.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Clare\CityEnnis.public.md) 
+
+### [Ennis.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Clare\CityEnnis.internal.md) 
+
+### [Ennis.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Clare\CityEnnis.protect.md) 
+
+### [Ennis.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Clare\CityEnnis.private.md) 
+
+### [Ennis.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Clare\CityEnnis.personal.md) 
+
+### [Ennis.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Clare\CityEnnis.secret.md)
+

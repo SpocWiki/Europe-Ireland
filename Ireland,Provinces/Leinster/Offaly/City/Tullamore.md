@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Tullamore|Tullamore]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Tullamore.public|Tullamore.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Tullamore.internal|Tullamore.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Tullamore.protect|Tullamore.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Tullamore.private|Tullamore.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Tullamore.personal|Tullamore.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Tullamore.secret|Tullamore.secret]] 
+
+### [Tullamore.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Offaly\CityTullamore.public.md) 
+
+### [Tullamore.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Offaly\CityTullamore.internal.md) 
+
+### [Tullamore.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Offaly\CityTullamore.protect.md) 
+
+### [Tullamore.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Offaly\CityTullamore.private.md) 
+
+### [Tullamore.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Offaly\CityTullamore.personal.md) 
+
+### [Tullamore.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Offaly\CityTullamore.secret.md)
+

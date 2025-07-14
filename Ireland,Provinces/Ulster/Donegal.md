@@ -40,11 +40,16 @@ markerFolder: ./Donegal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Donegal|Donegal]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Donegal.public|Donegal.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Donegal.internal|Donegal.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Donegal.protect|Donegal.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Donegal.private|Donegal.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Donegal.personal|Donegal.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Donegal.secret|Donegal.secret]] 
+
+### [Donegal.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\UlsterDonegal.public.md) 
+
+### [Donegal.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\UlsterDonegal.internal.md) 
+
+### [Donegal.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\UlsterDonegal.protect.md) 
+
+### [Donegal.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\UlsterDonegal.private.md) 
+
+### [Donegal.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\UlsterDonegal.personal.md) 
+
+### [Donegal.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\UlsterDonegal.secret.md)
 

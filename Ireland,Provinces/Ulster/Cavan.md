@@ -40,11 +40,16 @@ markerFolder: ./Cavan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Cavan|Cavan]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Cavan.public|Cavan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Cavan.internal|Cavan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Cavan.protect|Cavan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Cavan.private|Cavan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Cavan.personal|Cavan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Cavan.secret|Cavan.secret]] 
+
+### [Cavan.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\UlsterCavan.public.md) 
+
+### [Cavan.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\UlsterCavan.internal.md) 
+
+### [Cavan.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\UlsterCavan.protect.md) 
+
+### [Cavan.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\UlsterCavan.private.md) 
+
+### [Cavan.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\UlsterCavan.personal.md) 
+
+### [Cavan.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\UlsterCavan.secret.md)
 

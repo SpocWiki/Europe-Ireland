@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Rathmines|Rathmines]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Rathmines.public|Rathmines.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Rathmines.internal|Rathmines.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Rathmines.protect|Rathmines.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Rathmines.private|Rathmines.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Rathmines.personal|Rathmines.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Rathmines.secret|Rathmines.secret]] 
+
+### [Rathmines.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\CityRathmines.public.md) 
+
+### [Rathmines.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\CityRathmines.internal.md) 
+
+### [Rathmines.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\CityRathmines.protect.md) 
+
+### [Rathmines.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\CityRathmines.private.md) 
+
+### [Rathmines.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\CityRathmines.personal.md) 
+
+### [Rathmines.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\CityRathmines.secret.md)
+

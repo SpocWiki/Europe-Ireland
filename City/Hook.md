@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Hook|Hook]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Hook.public|Hook.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Hook.internal|Hook.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Hook.protect|Hook.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Hook.private|Hook.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Hook.personal|Hook.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Hook.secret|Hook.secret]] 
+
+### [Hook.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\CityHook.public.md) 
+
+### [Hook.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\CityHook.internal.md) 
+
+### [Hook.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\CityHook.protect.md) 
+
+### [Hook.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\CityHook.private.md) 
+
+### [Hook.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\CityHook.personal.md) 
+
+### [Hook.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\CityHook.secret.md)
+

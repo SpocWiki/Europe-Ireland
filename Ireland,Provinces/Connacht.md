@@ -28,3 +28,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Connacht) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Connacht.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesConnacht.public.md) 
+
+### [Connacht.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesConnacht.internal.md) 
+
+### [Connacht.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesConnacht.protect.md) 
+
+### [Connacht.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesConnacht.private.md) 
+
+### [Connacht.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesConnacht.personal.md) 
+
+### [Connacht.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,ProvincesConnacht.secret.md)
+

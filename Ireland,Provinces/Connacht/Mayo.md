@@ -40,11 +40,16 @@ markerFolder: ./Mayo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Mayo|Mayo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Mayo.public|Mayo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Mayo.internal|Mayo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Mayo.protect|Mayo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Mayo.private|Mayo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Mayo.personal|Mayo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Mayo.secret|Mayo.secret]] 
+
+### [Mayo.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtMayo.public.md) 
+
+### [Mayo.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtMayo.internal.md) 
+
+### [Mayo.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtMayo.protect.md) 
+
+### [Mayo.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtMayo.private.md) 
+
+### [Mayo.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtMayo.personal.md) 
+
+### [Mayo.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtMayo.secret.md)
 

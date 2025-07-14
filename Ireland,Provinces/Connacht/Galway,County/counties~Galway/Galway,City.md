@@ -38,10 +38,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Galway|Galway]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Galway.public|Galway.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Galway.internal|Galway.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Galway.protect|Galway.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Galway.private|Galway.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Galway.personal|Galway.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Galway.secret|Galway.secret]] 
+
+### [Galway,City.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayGalway,City.public.md) 
+
+### [Galway,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayGalway,City.internal.md) 
+
+### [Galway,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayGalway,City.protect.md) 
+
+### [Galway,City.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayGalway,City.private.md) 
+
+### [Galway,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayGalway,City.personal.md) 
+
+### [Galway,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Connacht\Galway,County\counties~GalwayGalway,City.secret.md)
+

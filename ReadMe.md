@@ -127,14 +127,17 @@ Capital :: [[./Ireland/Counties/Dublin]]
 [has_place_latitude::53.0702] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland|Ireland]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~North/Ireland.public|Ireland.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland.internal|Ireland.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland.protect|Ireland.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~North/Ireland.private|Ireland.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland.personal|Ireland.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland.secret|Ireland.secret]] 
 
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~North\IrelandReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~North\IrelandReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~North\IrelandReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~North\IrelandReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~North\IrelandReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~North\IrelandReadMe.secret.md)
 

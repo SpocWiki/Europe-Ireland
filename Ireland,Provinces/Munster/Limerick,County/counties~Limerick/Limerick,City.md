@@ -38,10 +38,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Limerick|Limerick]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Limerick.public|Limerick.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Limerick.internal|Limerick.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Limerick.protect|Limerick.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Limerick.private|Limerick.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Limerick.personal|Limerick.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Limerick.secret|Limerick.secret]] 
+
+### [Limerick,City.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Limerick,County\counties~LimerickLimerick,City.public.md) 
+
+### [Limerick,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Limerick,County\counties~LimerickLimerick,City.internal.md) 
+
+### [Limerick,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Limerick,County\counties~LimerickLimerick,City.protect.md) 
+
+### [Limerick,City.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Limerick,County\counties~LimerickLimerick,City.private.md) 
+
+### [Limerick,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Limerick,County\counties~LimerickLimerick,City.personal.md) 
+
+### [Limerick,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Limerick,County\counties~LimerickLimerick,City.secret.md)
+

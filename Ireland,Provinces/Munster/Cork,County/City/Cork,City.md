@@ -38,10 +38,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Cork|Cork]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Cork.public|Cork.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Cork.internal|Cork.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Cork.protect|Cork.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Cork.private|Cork.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Cork.personal|Cork.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Cork.secret|Cork.secret]] 
+
+### [Cork,City.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityCork,City.public.md) 
+
+### [Cork,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityCork,City.internal.md) 
+
+### [Cork,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityCork,City.protect.md) 
+
+### [Cork,City.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityCork,City.private.md) 
+
+### [Cork,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityCork,City.personal.md) 
+
+### [Cork,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Cork,County\CityCork,City.secret.md)
+

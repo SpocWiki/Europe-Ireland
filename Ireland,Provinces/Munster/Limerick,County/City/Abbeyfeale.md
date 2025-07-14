@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Abbeyfeale|Abbeyfeale]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Abbeyfeale.public|Abbeyfeale.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Abbeyfeale.internal|Abbeyfeale.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Abbeyfeale.protect|Abbeyfeale.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Abbeyfeale.private|Abbeyfeale.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Abbeyfeale.personal|Abbeyfeale.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Abbeyfeale.secret|Abbeyfeale.secret]] 
+
+### [Abbeyfeale.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Limerick,County\CityAbbeyfeale.public.md) 
+
+### [Abbeyfeale.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Limerick,County\CityAbbeyfeale.internal.md) 
+
+### [Abbeyfeale.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Limerick,County\CityAbbeyfeale.protect.md) 
+
+### [Abbeyfeale.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Limerick,County\CityAbbeyfeale.private.md) 
+
+### [Abbeyfeale.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Limerick,County\CityAbbeyfeale.personal.md) 
+
+### [Abbeyfeale.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Munster\Limerick,County\CityAbbeyfeale.secret.md)
+

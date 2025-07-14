@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Rathgar|Rathgar]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Rathgar.public|Rathgar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Rathgar.internal|Rathgar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Rathgar.protect|Rathgar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Rathgar.private|Rathgar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Rathgar.personal|Rathgar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Rathgar.secret|Rathgar.secret]] 
+
+### [Rathgar.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~Dublin\South_Dublin\CityRathgar.public.md) 
+
+### [Rathgar.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~Dublin\South_Dublin\CityRathgar.internal.md) 
+
+### [Rathgar.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~Dublin\South_Dublin\CityRathgar.protect.md) 
+
+### [Rathgar.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~Dublin\South_Dublin\CityRathgar.private.md) 
+
+### [Rathgar.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~Dublin\South_Dublin\CityRathgar.personal.md) 
+
+### [Rathgar.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~Dublin\South_Dublin\CityRathgar.secret.md)
+

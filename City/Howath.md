@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Howath|Howath]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Howath.public|Howath.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Howath.internal|Howath.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Howath.protect|Howath.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Howath.private|Howath.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Howath.personal|Howath.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Howath.secret|Howath.secret]] 
+
+### [Howath.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\CityHowath.public.md) 
+
+### [Howath.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\CityHowath.internal.md) 
+
+### [Howath.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\CityHowath.protect.md) 
+
+### [Howath.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\CityHowath.private.md) 
+
+### [Howath.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\CityHowath.personal.md) 
+
+### [Howath.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\CityHowath.secret.md)
+

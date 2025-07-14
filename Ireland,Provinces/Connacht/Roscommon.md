@@ -40,11 +40,16 @@ markerFolder: ./Roscommon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Roscommon|Roscommon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Roscommon.public|Roscommon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Roscommon.internal|Roscommon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Roscommon.protect|Roscommon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Roscommon.private|Roscommon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Roscommon.personal|Roscommon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Roscommon.secret|Roscommon.secret]] 
+
+### [Roscommon.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtRoscommon.public.md) 
+
+### [Roscommon.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtRoscommon.internal.md) 
+
+### [Roscommon.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtRoscommon.protect.md) 
+
+### [Roscommon.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtRoscommon.private.md) 
+
+### [Roscommon.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtRoscommon.personal.md) 
+
+### [Roscommon.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\ConnachtRoscommon.secret.md)
 

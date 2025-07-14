@@ -40,11 +40,16 @@ markerFolder: ./South_Dublin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/South_Dublin|South_Dublin]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/South_Dublin.public|South_Dublin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/South_Dublin.internal|South_Dublin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/South_Dublin.protect|South_Dublin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/South_Dublin.private|South_Dublin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/South_Dublin.personal|South_Dublin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/South_Dublin.secret|South_Dublin.secret]] 
+
+### [South_Dublin.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinSouth_Dublin.public.md) 
+
+### [South_Dublin.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinSouth_Dublin.internal.md) 
+
+### [South_Dublin.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinSouth_Dublin.protect.md) 
+
+### [South_Dublin.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinSouth_Dublin.private.md) 
+
+### [South_Dublin.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinSouth_Dublin.personal.md) 
+
+### [South_Dublin.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinSouth_Dublin.secret.md)
 

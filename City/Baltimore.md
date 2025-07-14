@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Baltimore|Baltimore]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Baltimore.public|Baltimore.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Baltimore.internal|Baltimore.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Baltimore.protect|Baltimore.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Baltimore.private|Baltimore.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Baltimore.personal|Baltimore.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Baltimore.secret|Baltimore.secret]] 
+
+### [Baltimore.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\CityBaltimore.public.md) 
+
+### [Baltimore.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\CityBaltimore.internal.md) 
+
+### [Baltimore.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\CityBaltimore.protect.md) 
+
+### [Baltimore.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\CityBaltimore.private.md) 
+
+### [Baltimore.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\CityBaltimore.personal.md) 
+
+### [Baltimore.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\CityBaltimore.secret.md)
+

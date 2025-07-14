@@ -37,10 +37,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Dublin|Dublin]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Dublin.public|Dublin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Dublin.internal|Dublin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Dublin.protect|Dublin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Dublin.private|Dublin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Dublin.personal|Dublin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Dublin.secret|Dublin.secret]] 
+
+### [Dublin,City.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinDublin,City.public.md) 
+
+### [Dublin,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinDublin,City.internal.md) 
+
+### [Dublin,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinDublin,City.protect.md) 
+
+### [Dublin,City.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinDublin,City.private.md) 
+
+### [Dublin,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinDublin,City.personal.md) 
+
+### [Dublin,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\Leinster\Dublin,County\counties~DublinDublin,City.secret.md)
+

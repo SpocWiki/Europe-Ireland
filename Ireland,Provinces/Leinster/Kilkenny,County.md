@@ -40,11 +40,16 @@ markerFolder: ./Kilkenny/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Kilkenny|Kilkenny]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Kilkenny.public|Kilkenny.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Kilkenny.internal|Kilkenny.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Kilkenny.protect|Kilkenny.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Kilkenny.private|Kilkenny.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Kilkenny.personal|Kilkenny.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Kilkenny.secret|Kilkenny.secret]] 
+
+### [Kilkenny,County.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterKilkenny,County.public.md) 
+
+### [Kilkenny,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterKilkenny,County.internal.md) 
+
+### [Kilkenny,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterKilkenny,County.protect.md) 
+
+### [Kilkenny,County.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterKilkenny,County.private.md) 
+
+### [Kilkenny,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterKilkenny,County.personal.md) 
+
+### [Kilkenny,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\LeinsterKilkenny,County.secret.md)
 

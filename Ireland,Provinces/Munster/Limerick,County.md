@@ -40,11 +40,16 @@ markerFolder: ./Limerick/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/Counties/Limerick|Limerick]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/Counties/Limerick.public|Limerick.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/Counties/Limerick.internal|Limerick.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/Counties/Limerick.protect|Limerick.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/Counties/Limerick.private|Limerick.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/Counties/Limerick.personal|Limerick.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/Counties/Limerick.secret|Limerick.secret]] 
+
+### [Limerick,County.public](/_public/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterLimerick,County.public.md) 
+
+### [Limerick,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterLimerick,County.internal.md) 
+
+### [Limerick,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterLimerick,County.protect.md) 
+
+### [Limerick,County.private](/_private/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterLimerick,County.private.md) 
+
+### [Limerick,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterLimerick,County.personal.md) 
+
+### [Limerick,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\Ireland\Ireland,Provinces\MunsterLimerick,County.secret.md)
 
