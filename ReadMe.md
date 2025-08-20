@@ -1,35 +1,36 @@
 ---
 location:
-- 53.0702
-- -7.70895
+  - 53.0702
+  - -7.70895
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26923
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Ireland
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Ireland
-- Irlanda
-- Irlande
-- آيرلندا
-- 爱尔兰
-- Ирландия
+  - Ireland
+  - Irlanda
+  - Irlande
+  - آيرلندا
+  - 爱尔兰
+  - Ирландия
 Languages:
-- en-IE
-- ga-IE
+  - en-IE
+  - ga-IE
 ---
 
 
