@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Cork
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Cork/
 markerFolder: ./Cork/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Dún_Laoghaire–Rathdown
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Dún_Laoghaire–Rathdown/
 markerFolder: ./Dún_Laoghaire–Rathdown/

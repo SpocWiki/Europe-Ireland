@@ -34,7 +34,7 @@ expiryDate:
 ```leaflet
 id: North_Tipperary
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./North_Tipperary/
 markerFolder: ./North_Tipperary/

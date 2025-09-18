@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Wicklow
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Wicklow/
 markerFolder: ./Wicklow/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: South_Dublin
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./South_Dublin/
 markerFolder: ./South_Dublin/
