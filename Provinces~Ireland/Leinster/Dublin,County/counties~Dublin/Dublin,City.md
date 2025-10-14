@@ -28,7 +28,7 @@ State ::
 Country :: [[Ireland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Dublin,1761|WD~Dublin,1761]] 
 

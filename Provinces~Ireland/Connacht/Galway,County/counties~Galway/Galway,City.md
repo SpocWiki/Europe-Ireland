@@ -25,7 +25,7 @@ State ::
 Country :: [[Ireland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

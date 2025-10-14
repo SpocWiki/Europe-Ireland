@@ -24,7 +24,7 @@ State ::
 Country :: [[Ireland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 ## #has_/map  
 
