@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Dublin,County
+  - County Dublin
 location:
   - 53.4
   - -6.3
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Dublin,County
-  - County Dublin
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Dublin

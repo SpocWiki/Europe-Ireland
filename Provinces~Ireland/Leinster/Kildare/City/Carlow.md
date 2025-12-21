@@ -1,16 +1,19 @@
 ---
-location: [52.97,-6.93] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Carlow
+location:
+  - 52.97
+  - -6.93
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29485
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

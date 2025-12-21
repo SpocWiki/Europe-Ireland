@@ -1,16 +1,19 @@
 ---
-location: [53.32,-6.25] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Rathmines
+location:
+  - 53.32
+  - -6.25
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33644
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Rathmines]] 

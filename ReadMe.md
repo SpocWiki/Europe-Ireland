@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Ireland
+  - Irlanda
+  - Irlande
+  - آيرلندا
+  - 爱尔兰
+  - Ирландия
+  - ReadMe
 location:
   - 53.0702
   - -7.70895
@@ -15,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Ireland
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Ireland
-  - Irlanda
-  - Irlande
-  - آيرلندا
-  - 爱尔兰
-  - Ирландия
+publishDate: ''
+expiryDate: ''
 Languages:
   - en-IE
   - ga-IE

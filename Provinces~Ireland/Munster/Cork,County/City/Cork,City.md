@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Cork City
+  - Cork
+  - Cork,City
 location:
   - 51.8
   - -8.25
@@ -12,9 +16,6 @@ tags:
 SpocWebEntityId: 29655
 isDeleted: false
 confidential: public
-aliases:
-  - Cork City
-  - Cork
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - County Cork
+  - Cork County
+  - Cork,County
 location:
   - 51.9
   - -8.9
@@ -12,19 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - County Cork
-  - Cork County
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Cork,County]] 

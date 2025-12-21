@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Dublin
+  - Dublin,City
+has_id_wikidata: Q1761
 location:
   - 53.38
   - -6.32
@@ -12,9 +16,6 @@ tags:
 SpocWebEntityId: 29894
 isDeleted: false
 confidential: public
-aliases:
-  - Dublin
-has_id_wikidata: Q1761
 ---
 
 # [[Dublin,City]] 

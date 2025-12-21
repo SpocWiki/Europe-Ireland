@@ -1,14 +1,16 @@
 ---
 aliases:
   - Irish literature
+  - Irish_Literature
+  - Irish Literature
 has_id_wikidata: Q683732
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Anglo_Irish_literature,541072]]"
-instance_of: "[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]"
-part_of: "[[_Standards/WikiData/WD~British_and_Irish_literature,112939639]]"
-subclass_of: "[[_Standards/WikiData/WD~literature,8242]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Anglo_Irish_literature,541072]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
+part_of: '[[_Standards/WikiData/WD~British_and_Irish_literature,112939639]]'
+subclass_of: '[[_Standards/WikiData/WD~literature,8242]]'
 Commons_category: Literature of Ireland
 ---
 

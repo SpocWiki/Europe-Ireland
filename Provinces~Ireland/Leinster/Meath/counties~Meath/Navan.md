@@ -1,6 +1,7 @@
 ---
 aliases:
   - An Uaimh
+  - Navan
 ---
 
 

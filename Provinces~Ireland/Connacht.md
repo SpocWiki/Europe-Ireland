@@ -2,6 +2,7 @@
 aliases:
   - Connaught
   - Cúige Chonnacht
+  - Connacht
 ---
 
 ## #has_/text_of_/abstract  

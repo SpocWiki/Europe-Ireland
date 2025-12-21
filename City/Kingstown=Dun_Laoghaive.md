@@ -1,16 +1,20 @@
 ---
-location: [53.3,-6.13] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Kingstown=Dun_Laoghaive
+  - Kingstown=Dun Laoghaive
+location:
+  - 53.3
+  - -6.13
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31431
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

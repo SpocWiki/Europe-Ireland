@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Galway City
+  - Galway
+  - Galway,City
 location:
   - 53.35
   - -9.5
@@ -12,9 +16,6 @@ tags:
 SpocWebEntityId: 30349
 isDeleted: false
 confidential: public
-aliases:
-  - Galway City
-  - Galway
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

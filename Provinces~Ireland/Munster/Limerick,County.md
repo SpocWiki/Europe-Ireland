@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Limerick,County
+  - County Limerick
 location:
   - 52.5
   - -8.8
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Limerick,County
-  - County Limerick
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Limerick

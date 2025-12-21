@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Limerick City
+  - Limerick
+  - Limerick,City
 location:
   - 52.67
   - -8.62
@@ -12,9 +16,6 @@ tags:
 SpocWebEntityId: 32018
 isDeleted: false
 confidential: public
-aliases:
-  - Limerick City
-  - Limerick
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

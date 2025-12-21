@@ -1,16 +1,19 @@
 ---
-location: [52.35,-7.7] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Clonmel
+location:
+  - 52.35
+  - -7.7
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29629
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

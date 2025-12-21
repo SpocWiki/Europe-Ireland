@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Waterford,County
+  - County Waterford
 location:
   - 52.2
   - -7.6
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Waterford,County
-  - County Waterford
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Waterford
