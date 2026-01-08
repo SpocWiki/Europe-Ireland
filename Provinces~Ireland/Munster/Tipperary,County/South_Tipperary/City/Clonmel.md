@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29629
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -7.7
+dv_has_place_latitude: 52.35
+dv_name: Clonmel
+dv_Country: "[[../../../../../../Ireland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-7.7] 
-[has_place_latitude::52.35] 
-[name::Clonmel] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Ireland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Clonmel](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Clonmel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County/South_Tipperary/City/Clonmel|Clonmel]] 
 
-### [Clonmel.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Clonmel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County/South_Tipperary/City/Clonmel.public|Clonmel.public]] 
 
-### [Clonmel.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Clonmel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County/South_Tipperary/City/Clonmel.internal|Clonmel.internal]] 
 
-### [Clonmel.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Clonmel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County/South_Tipperary/City/Clonmel.protect|Clonmel.protect]] 
 
-### [Clonmel.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Clonmel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County/South_Tipperary/City/Clonmel.private|Clonmel.private]] 
 
-### [Clonmel.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Clonmel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County/South_Tipperary/City/Clonmel.personal|Clonmel.personal]] 
 
-### [Clonmel.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Clonmel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County/South_Tipperary/City/Clonmel.secret|Clonmel.secret]] 
 

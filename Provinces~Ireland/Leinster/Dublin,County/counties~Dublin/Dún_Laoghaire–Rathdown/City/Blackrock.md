@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29218
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -6.17
+dv_has_place_latitude: 53.3
+dv_name: Blackrock
+dv_Country: "[[../../../../../../../Ireland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-6.17] 
-[has_place_latitude::53.3] 
-[name::Blackrock] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Ireland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Blackrock](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Dún_Laoghaire–Rathdown/City/Blackrock.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Dún_Laoghaire–Rathdown/City/Blackrock|Blackrock]] 
 
-### [Blackrock.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Dún_Laoghaire–Rathdown/City/Blackrock.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Dún_Laoghaire–Rathdown/City/Blackrock.public|Blackrock.public]] 
 
-### [Blackrock.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Dún_Laoghaire–Rathdown/City/Blackrock.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Dún_Laoghaire–Rathdown/City/Blackrock.internal|Blackrock.internal]] 
 
-### [Blackrock.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Dún_Laoghaire–Rathdown/City/Blackrock.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Dún_Laoghaire–Rathdown/City/Blackrock.protect|Blackrock.protect]] 
 
-### [Blackrock.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Dún_Laoghaire–Rathdown/City/Blackrock.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Dún_Laoghaire–Rathdown/City/Blackrock.private|Blackrock.private]] 
 
-### [Blackrock.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Dún_Laoghaire–Rathdown/City/Blackrock.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Dún_Laoghaire–Rathdown/City/Blackrock.personal|Blackrock.personal]] 
 
-### [Blackrock.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Dún_Laoghaire–Rathdown/City/Blackrock.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Dún_Laoghaire–Rathdown/City/Blackrock.secret|Blackrock.secret]] 
 

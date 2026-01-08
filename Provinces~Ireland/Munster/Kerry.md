@@ -40,17 +40,17 @@ markerFolder: ./Kerry/
 
 ## Confidential Links & Embeds: 
 
-### [Kerry](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Kerry|Kerry]] 
 
-### [Kerry.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Kerry.public|Kerry.public]] 
 
-### [Kerry.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Kerry.internal|Kerry.internal]] 
 
-### [Kerry.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Kerry.protect|Kerry.protect]] 
 
-### [Kerry.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Kerry.private|Kerry.private]] 
 
-### [Kerry.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Kerry.personal|Kerry.personal]] 
 
-### [Kerry.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Kerry.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Kerry.secret|Kerry.secret]] 
 

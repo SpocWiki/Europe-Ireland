@@ -12,11 +12,14 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Irish%20soldiers%20during%20the%20Civil%20War.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/The%20Burning%20of%20Cork%20%289713428703%29.jpg
 Commons_category: History of Ireland
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_the_Republic_of_Ireland,1403781|WD~History_of_the_Republic_of_Ireland,1403781]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_the_Republic_of_Ireland,1403781|WD~History_of_the_Republic_of_Ireland,1403781]]"
 ---
 
 # [[History_of_the_Republic_of_Ireland]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~History_of_the_Republic_of_Ireland,1403781|WD~History_of_the_Republic_of_Ireland,1403781]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -61,4 +64,21 @@ Commons_category: History of Ireland
 > From 1937 to 1998, the Irish constitution included an irredentist claim on Northern Ireland as a part of the national territory. However, the state also opposed and used its security forces against those armed groups – principally the Provisional Irish Republican Army – who tried to unite Ireland by force. This occurred in the 1950s, throughout the 1970s and 1980s and has continued on a reduced scale. Irish governments meanwhile tried to broker an agreement to the conflict known as the Troubles within Northern Ireland from 1968 to the late 1990s. The British government officially recognised the right of the Irish government to be a party to the Northern negotiations in the Anglo-Irish Agreement of 1985. In 1998, as part of the Good Friday Agreement, the Irish constitution was altered by referendum to remove the territorial claim to Northern Ireland and instead extend the right of Irish citizenship to all the people of the island should they wish to have it.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20the%20Republic%20of%20Ireland) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/History_of_the_Republic_of_Ireland|History_of_the_Republic_of_Ireland]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/History_of_the_Republic_of_Ireland.public|History_of_the_Republic_of_Ireland.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/History_of_the_Republic_of_Ireland.internal|History_of_the_Republic_of_Ireland.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/History_of_the_Republic_of_Ireland.protect|History_of_the_Republic_of_Ireland.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/History_of_the_Republic_of_Ireland.private|History_of_the_Republic_of_Ireland.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/History_of_the_Republic_of_Ireland.personal|History_of_the_Republic_of_Ireland.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/History_of_the_Republic_of_Ireland.secret|History_of_the_Republic_of_Ireland.secret]] 
 

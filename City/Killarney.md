@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31425
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -7.5
+dv_has_place_latitude: 52.07
+dv_name: Killarney
+dv_Country: "[[../../Ireland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-7.5] 
-[has_place_latitude::52.07] 
-[name::Killarney] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Ireland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Killarney](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney|Killarney]] 
 
-### [Killarney.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.public|Killarney.public]] 
 
-### [Killarney.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.internal|Killarney.internal]] 
 
-### [Killarney.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.protect|Killarney.protect]] 
 
-### [Killarney.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.private|Killarney.private]] 
 
-### [Killarney.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.personal|Killarney.personal]] 
 
-### [Killarney.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Killarney.secret|Killarney.secret]] 
 

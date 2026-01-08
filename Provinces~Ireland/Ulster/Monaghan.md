@@ -40,17 +40,17 @@ markerFolder: ./Monaghan/
 
 ## Confidential Links & Embeds: 
 
-### [Monaghan](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Ulster/Monaghan|Monaghan]] 
 
-### [Monaghan.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Ulster/Monaghan.public|Monaghan.public]] 
 
-### [Monaghan.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Ulster/Monaghan.internal|Monaghan.internal]] 
 
-### [Monaghan.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Ulster/Monaghan.protect|Monaghan.protect]] 
 
-### [Monaghan.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Ulster/Monaghan.private|Monaghan.private]] 
 
-### [Monaghan.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Ulster/Monaghan.personal|Monaghan.personal]] 
 
-### [Monaghan.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster/Monaghan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Ulster/Monaghan.secret|Monaghan.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35471
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -7.15
+dv_has_place_latitude: 52.22
+dv_name: Waterford
+dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-7.15] 
-[has_place_latitude::52.22] 
-[name::Waterford] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Ireland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waterford,City](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County/counties~Waterford/Waterford,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Waterford,County/counties~Waterford/Waterford,City|Waterford,City]] 
 
-### [Waterford,City.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County/counties~Waterford/Waterford,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Waterford,County/counties~Waterford/Waterford,City.public|Waterford,City.public]] 
 
-### [Waterford,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County/counties~Waterford/Waterford,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Waterford,County/counties~Waterford/Waterford,City.internal|Waterford,City.internal]] 
 
-### [Waterford,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County/counties~Waterford/Waterford,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Waterford,County/counties~Waterford/Waterford,City.protect|Waterford,City.protect]] 
 
-### [Waterford,City.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County/counties~Waterford/Waterford,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Waterford,County/counties~Waterford/Waterford,City.private|Waterford,City.private]] 
 
-### [Waterford,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County/counties~Waterford/Waterford,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Waterford,County/counties~Waterford/Waterford,City.personal|Waterford,City.personal]] 
 
-### [Waterford,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Waterford,County/counties~Waterford/Waterford,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Waterford,County/counties~Waterford/Waterford,City.secret|Waterford,City.secret]] 
 

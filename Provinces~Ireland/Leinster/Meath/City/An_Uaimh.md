@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 28812
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -6.67
+dv_has_place_latitude: 53.65
+dv_name: An Uaimh
+dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-6.67] 
-[has_place_latitude::53.65] 
-[name::An Uaimh] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Ireland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [An_Uaimh](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/City/An_Uaimh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Meath/City/An_Uaimh|An_Uaimh]] 
 
-### [An_Uaimh.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/City/An_Uaimh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Meath/City/An_Uaimh.public|An_Uaimh.public]] 
 
-### [An_Uaimh.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/City/An_Uaimh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Meath/City/An_Uaimh.internal|An_Uaimh.internal]] 
 
-### [An_Uaimh.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/City/An_Uaimh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Meath/City/An_Uaimh.protect|An_Uaimh.protect]] 
 
-### [An_Uaimh.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/City/An_Uaimh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Meath/City/An_Uaimh.private|An_Uaimh.private]] 
 
-### [An_Uaimh.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/City/An_Uaimh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Meath/City/An_Uaimh.personal|An_Uaimh.personal]] 
 
-### [An_Uaimh.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Meath/City/An_Uaimh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Meath/City/An_Uaimh.secret|An_Uaimh.secret]] 
 

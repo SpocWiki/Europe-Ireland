@@ -14,17 +14,22 @@ tags:
 SpocWebEntityId: 33644
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -6.25
+dv_has_place_latitude: 53.32
+dv_name: Rathmines
+dv_Country: "[[../../../../../../Ireland]]"
 ---
 
 # [[Rathmines]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-6.25] 
-[has_place_latitude::53.32] 
-[name::Rathmines] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Ireland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -42,17 +47,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rathmines](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Rathmines.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Dublin,City/Rathmines|Rathmines]] 
 
-### [Rathmines.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Rathmines.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Dublin,City/Rathmines.public|Rathmines.public]] 
 
-### [Rathmines.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Rathmines.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Dublin,City/Rathmines.internal|Rathmines.internal]] 
 
-### [Rathmines.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Rathmines.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Dublin,City/Rathmines.protect|Rathmines.protect]] 
 
-### [Rathmines.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Rathmines.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Dublin,City/Rathmines.private|Rathmines.private]] 
 
-### [Rathmines.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Rathmines.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Dublin,City/Rathmines.personal|Rathmines.personal]] 
 
-### [Rathmines.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Rathmines.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Dublin,City/Rathmines.secret|Rathmines.secret]] 
 

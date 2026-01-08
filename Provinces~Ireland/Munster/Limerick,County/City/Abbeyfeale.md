@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28645
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -9.3
+dv_has_place_latitude: 52.38
+dv_name: Abbeyfeale
+dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-9.3] 
-[has_place_latitude::52.38] 
-[name::Abbeyfeale] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Ireland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Abbeyfeale](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/City/Abbeyfeale.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Limerick,County/City/Abbeyfeale|Abbeyfeale]] 
 
-### [Abbeyfeale.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/City/Abbeyfeale.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Limerick,County/City/Abbeyfeale.public|Abbeyfeale.public]] 
 
-### [Abbeyfeale.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/City/Abbeyfeale.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Limerick,County/City/Abbeyfeale.internal|Abbeyfeale.internal]] 
 
-### [Abbeyfeale.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/City/Abbeyfeale.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Limerick,County/City/Abbeyfeale.protect|Abbeyfeale.protect]] 
 
-### [Abbeyfeale.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/City/Abbeyfeale.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Limerick,County/City/Abbeyfeale.private|Abbeyfeale.private]] 
 
-### [Abbeyfeale.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/City/Abbeyfeale.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Limerick,County/City/Abbeyfeale.personal|Abbeyfeale.personal]] 
 
-### [Abbeyfeale.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/City/Abbeyfeale.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Limerick,County/City/Abbeyfeale.secret|Abbeyfeale.secret]] 
 

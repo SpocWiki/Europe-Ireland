@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33643
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -6.27
+dv_has_place_latitude: 53.3
+dv_name: Rathgar
+dv_Country: "[[../../../../../../../Ireland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-6.27] 
-[has_place_latitude::53.3] 
-[name::Rathgar] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Ireland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rathgar](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar|Rathgar]] 
 
-### [Rathgar.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.public|Rathgar.public]] 
 
-### [Rathgar.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.internal|Rathgar.internal]] 
 
-### [Rathgar.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.protect|Rathgar.protect]] 
 
-### [Rathgar.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.private|Rathgar.private]] 
 
-### [Rathgar.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.personal|Rathgar.personal]] 
 
-### [Rathgar.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/South_Dublin/City/Rathgar.secret|Rathgar.secret]] 
 

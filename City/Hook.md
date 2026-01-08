@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31022
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -6.45
+dv_has_place_latitude: 52.08
+dv_name: Hook
+dv_Country: "[[../../Ireland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-6.45] 
-[has_place_latitude::52.08] 
-[name::Hook] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Ireland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hook](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Hook.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Hook|Hook]] 
 
-### [Hook.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Hook.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Hook.public|Hook.public]] 
 
-### [Hook.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Hook.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Hook.internal|Hook.internal]] 
 
-### [Hook.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Hook.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Hook.protect|Hook.protect]] 
 
-### [Hook.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Hook.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Hook.private|Hook.private]] 
 
-### [Hook.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Hook.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Hook.personal|Hook.personal]] 
 
-### [Hook.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Hook.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Hook.secret|Hook.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Fingal/
 
 ## Confidential Links & Embeds: 
 
-### [Fingal](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Fingal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Fingal|Fingal]] 
 
-### [Fingal.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Fingal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Fingal.public|Fingal.public]] 
 
-### [Fingal.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Fingal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Fingal.internal|Fingal.internal]] 
 
-### [Fingal.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Fingal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Fingal.protect|Fingal.protect]] 
 
-### [Fingal.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Fingal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Fingal.private|Fingal.private]] 
 
-### [Fingal.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Fingal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Fingal.personal|Fingal.personal]] 
 
-### [Fingal.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Counties~Ireland/Fingal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Fingal.secret|Fingal.secret]] 
 

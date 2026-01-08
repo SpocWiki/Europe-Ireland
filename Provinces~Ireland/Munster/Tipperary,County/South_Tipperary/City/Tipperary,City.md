@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34878
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -8.13
+dv_has_place_latitude: 52.47
+dv_name: Tipperary
+dv_Country: "[[../../../../../../Ireland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-8.13] 
-[has_place_latitude::52.47] 
-[name::Tipperary] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Ireland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tipperary,City](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City|Tipperary,City]] 
 
-### [Tipperary,City.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.public|Tipperary,City.public]] 
 
-### [Tipperary,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.internal|Tipperary,City.internal]] 
 
-### [Tipperary,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.protect|Tipperary,City.protect]] 
 
-### [Tipperary,City.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.private|Tipperary,City.private]] 
 
-### [Tipperary,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.personal|Tipperary,City.personal]] 
 
-### [Tipperary,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County/South_Tipperary/City/Tipperary,City.secret|Tipperary,City.secret]] 
 

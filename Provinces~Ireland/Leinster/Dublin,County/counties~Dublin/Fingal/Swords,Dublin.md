@@ -26,17 +26,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Swords,Dublin](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Swords,Dublin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Fingal/Swords,Dublin|Swords,Dublin]] 
 
-### [Swords,Dublin.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Swords,Dublin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Fingal/Swords,Dublin.public|Swords,Dublin.public]] 
 
-### [Swords,Dublin.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Swords,Dublin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Fingal/Swords,Dublin.internal|Swords,Dublin.internal]] 
 
-### [Swords,Dublin.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Swords,Dublin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Fingal/Swords,Dublin.protect|Swords,Dublin.protect]] 
 
-### [Swords,Dublin.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Swords,Dublin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Fingal/Swords,Dublin.private|Swords,Dublin.private]] 
 
-### [Swords,Dublin.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Swords,Dublin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Fingal/Swords,Dublin.personal|Swords,Dublin.personal]] 
 
-### [Swords,Dublin.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Leinster/Dublin,County/City/Swords,Dublin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Leinster/Dublin,County/counties~Dublin/Fingal/Swords,Dublin.secret|Swords,Dublin.secret]] 
 

@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 31431
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -6.13
+dv_has_place_latitude: 53.3
+dv_name: Kingstown=Dun Laoghaive
+dv_Country: "[[../../Ireland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-6.13] 
-[has_place_latitude::53.3] 
-[name::Kingstown=Dun Laoghaive] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Ireland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kingstown=Dun_Laoghaive](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Kingstown=Dun_Laoghaive.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Kingstown=Dun_Laoghaive|Kingstown=Dun_Laoghaive]] 
 
-### [Kingstown=Dun_Laoghaive.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Kingstown=Dun_Laoghaive.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Kingstown=Dun_Laoghaive.public|Kingstown=Dun_Laoghaive.public]] 
 
-### [Kingstown=Dun_Laoghaive.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Kingstown=Dun_Laoghaive.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Kingstown=Dun_Laoghaive.internal|Kingstown=Dun_Laoghaive.internal]] 
 
-### [Kingstown=Dun_Laoghaive.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Kingstown=Dun_Laoghaive.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Kingstown=Dun_Laoghaive.protect|Kingstown=Dun_Laoghaive.protect]] 
 
-### [Kingstown=Dun_Laoghaive.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Kingstown=Dun_Laoghaive.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Kingstown=Dun_Laoghaive.private|Kingstown=Dun_Laoghaive.private]] 
 
-### [Kingstown=Dun_Laoghaive.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Kingstown=Dun_Laoghaive.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Kingstown=Dun_Laoghaive.personal|Kingstown=Dun_Laoghaive.personal]] 
 
-### [Kingstown=Dun_Laoghaive.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Kingstown=Dun_Laoghaive.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Kingstown=Dun_Laoghaive.secret|Kingstown=Dun_Laoghaive.secret]] 
 

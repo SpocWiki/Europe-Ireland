@@ -32,17 +32,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Connacht](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Connacht|Connacht]] 
 
-### [Connacht.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Connacht.public|Connacht.public]] 
 
-### [Connacht.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Connacht.internal|Connacht.internal]] 
 
-### [Connacht.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Connacht.protect|Connacht.protect]] 
 
-### [Connacht.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Connacht.private|Connacht.private]] 
 
-### [Connacht.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Connacht.personal|Connacht.personal]] 
 
-### [Connacht.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Connacht.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Connacht.secret|Connacht.secret]] 
 

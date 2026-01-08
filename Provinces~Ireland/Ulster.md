@@ -17,17 +17,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Ulster](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Ulster|Ulster]] 
 
-### [Ulster.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Ulster.public|Ulster.public]] 
 
-### [Ulster.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Ulster.internal|Ulster.internal]] 
 
-### [Ulster.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Ulster.protect|Ulster.protect]] 
 
-### [Ulster.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Ulster.private|Ulster.private]] 
 
-### [Ulster.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Ulster.personal|Ulster.personal]] 
 
-### [Ulster.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Ulster.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Ulster.secret|Ulster.secret]] 
 

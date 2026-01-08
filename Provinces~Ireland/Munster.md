@@ -11,17 +11,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Munster](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster|Munster]] 
 
-### [Munster.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster.public|Munster.public]] 
 
-### [Munster.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster.internal|Munster.internal]] 
 
-### [Munster.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster.protect|Munster.protect]] 
 
-### [Munster.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster.private|Munster.private]] 
 
-### [Munster.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster.personal|Munster.personal]] 
 
-### [Munster.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster.secret|Munster.secret]] 
 

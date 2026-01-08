@@ -1,5 +1,11 @@
+---
+dv_has_:
+  time_:
+    started: 2014-06-03T00:00:00.000+02:00
+dv_has_time_started: 2014-06-03
+---
 
-#has_/time_/started :: 2014-06-03
+has_time_started = `=this.dv_has_time_started`
 
 
 ## #has_/text_of_/abstract 
@@ -24,17 +30,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Tipperary,County](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County|Tipperary,County]] 
 
-### [Tipperary,County.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County.public|Tipperary,County.public]] 
 
-### [Tipperary,County.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County.internal|Tipperary,County.internal]] 
 
-### [Tipperary,County.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County.protect|Tipperary,County.protect]] 
 
-### [Tipperary,County.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County.private|Tipperary,County.private]] 
 
-### [Tipperary,County.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County.personal|Tipperary,County.personal]] 
 
-### [Tipperary,County.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Tipperary,County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Tipperary,County.secret|Tipperary,County.secret]] 
 

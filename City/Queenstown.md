@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33578
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -8.28
+dv_has_place_latitude: 51.85
+dv_name: Queenstown
+dv_Country: "[[../../Ireland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-8.28] 
-[has_place_latitude::51.85] 
-[name::Queenstown] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Ireland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Queenstown](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Queenstown.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Queenstown|Queenstown]] 
 
-### [Queenstown.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Queenstown.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Queenstown.public|Queenstown.public]] 
 
-### [Queenstown.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Queenstown.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Queenstown.internal|Queenstown.internal]] 
 
-### [Queenstown.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Queenstown.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Queenstown.protect|Queenstown.protect]] 
 
-### [Queenstown.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Queenstown.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Queenstown.private|Queenstown.private]] 
 
-### [Queenstown.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Queenstown.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Queenstown.personal|Queenstown.personal]] 
 
-### [Queenstown.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Queenstown.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Queenstown.secret|Queenstown.secret]] 
 

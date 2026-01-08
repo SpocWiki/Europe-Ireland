@@ -20,17 +20,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Provinces,Ireland](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces,Ireland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland|Provinces~Ireland]] 
 
-### [Provinces,Ireland.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces,Ireland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland.public|Provinces~Ireland.public]] 
 
-### [Provinces,Ireland.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces,Ireland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland.internal|Provinces~Ireland.internal]] 
 
-### [Provinces,Ireland.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces,Ireland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland.protect|Provinces~Ireland.protect]] 
 
-### [Provinces,Ireland.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces,Ireland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland.private|Provinces~Ireland.private]] 
 
-### [Provinces,Ireland.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces,Ireland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland.personal|Provinces~Ireland.personal]] 
 
-### [Provinces,Ireland.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces,Ireland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland.secret|Provinces~Ireland.secret]] 
 

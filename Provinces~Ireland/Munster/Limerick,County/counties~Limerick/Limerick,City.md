@@ -16,14 +16,19 @@ tags:
 SpocWebEntityId: 32018
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -8.62
+dv_has_place_latitude: 52.67
+dv_name: Limerick
+dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-8.62] 
-[has_place_latitude::52.67] 
-[name::Limerick] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Ireland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -40,17 +45,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Limerick,City](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/counties~Limerick/Limerick,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Limerick,County/counties~Limerick/Limerick,City|Limerick,City]] 
 
-### [Limerick,City.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/counties~Limerick/Limerick,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Limerick,County/counties~Limerick/Limerick,City.public|Limerick,City.public]] 
 
-### [Limerick,City.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/counties~Limerick/Limerick,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Limerick,County/counties~Limerick/Limerick,City.internal|Limerick,City.internal]] 
 
-### [Limerick,City.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/counties~Limerick/Limerick,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Limerick,County/counties~Limerick/Limerick,City.protect|Limerick,City.protect]] 
 
-### [Limerick,City.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/counties~Limerick/Limerick,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Limerick,County/counties~Limerick/Limerick,City.private|Limerick,City.private]] 
 
-### [Limerick,City.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/counties~Limerick/Limerick,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Limerick,County/counties~Limerick/Limerick,City.personal|Limerick,City.personal]] 
 
-### [Limerick,City.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/Ireland,Provinces/Munster/Limerick,County/counties~Limerick/Limerick,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Provinces~Ireland/Munster/Limerick,County/counties~Limerick/Limerick,City.secret|Limerick,City.secret]] 
 

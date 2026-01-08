@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31433
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -8.53
+dv_has_place_latitude: 51.62
+dv_name: Kinsale
+dv_Country: "[[../../Ireland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-8.53] 
-[has_place_latitude::51.62] 
-[name::Kinsale] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Ireland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kinsale](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale|Kinsale]] 
 
-### [Kinsale.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.public|Kinsale.public]] 
 
-### [Kinsale.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.internal|Kinsale.internal]] 
 
-### [Kinsale.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.protect|Kinsale.protect]] 
 
-### [Kinsale.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.private|Kinsale.private]] 
 
-### [Kinsale.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.personal|Kinsale.personal]] 
 
-### [Kinsale.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Kinsale.secret|Kinsale.secret]] 
 

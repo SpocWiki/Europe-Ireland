@@ -5,18 +5,21 @@ aliases:
   - Irish Literature
 has_id_wikidata: Q683732
 described_by_source:
-  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Anglo_Irish_literature,541072]]'
-instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
-part_of: '[[_Standards/WikiData/WD~British_and_Irish_literature,112939639]]'
-subclass_of: '[[_Standards/WikiData/WD~literature,8242]]'
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Anglo_Irish_literature,541072]]"
+instance_of: "[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]"
+part_of: "[[_Standards/WikiData/WD~British_and_Irish_literature,112939639]]"
+subclass_of: "[[_Standards/WikiData/WD~literature,8242]]"
 Commons_category: Literature of Ireland
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Irish_literature,683732|WD~Irish_literature,683732]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Irish_literature,683732|WD~Irish_literature,683732]]"
 ---
 
 # [[Irish_Literature]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Irish_literature,683732|WD~Irish_literature,683732]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -56,4 +59,21 @@ Commons_category: Literature of Ireland
 > Well-known Irish writers in English in the twenty-first century include Edna O'Brien, Colum McCann, Anne Enright, Roddy Doyle, Moya Cannon, Sebastian Barry, Colm Toibín, and John Banville, all of whom have all won major awards. Younger writers include Sinéad Gleeson, Paul Murray, Anna Burns, Billy O'Callaghan, Kevin Barry, Emma Donoghue, Donal Ryan, Sally Rooney, William Wall, Marina Carr, and Martin McDonagh.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Irish%20literature) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/Irish_Literature|Irish_Literature]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/Irish_Literature.public|Irish_Literature.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/Irish_Literature.internal|Irish_Literature.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/Irish_Literature.protect|Irish_Literature.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/Irish_Literature.private|Irish_Literature.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/Irish_Literature.personal|Irish_Literature.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/Irish_Literature.secret|Irish_Literature.secret]] 
 

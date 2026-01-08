@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29001
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -9.43
+dv_has_place_latitude: 51.45
+dv_name: Baltimore
+dv_Country: "[[../../Ireland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-9.43] 
-[has_place_latitude::51.45] 
-[name::Baltimore] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Ireland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Baltimore](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Baltimore.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Baltimore|Baltimore]] 
 
-### [Baltimore.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Baltimore.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Baltimore.public|Baltimore.public]] 
 
-### [Baltimore.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Baltimore.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Baltimore.internal|Baltimore.internal]] 
 
-### [Baltimore.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Baltimore.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Baltimore.protect|Baltimore.protect]] 
 
-### [Baltimore.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Baltimore.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Baltimore.private|Baltimore.private]] 
 
-### [Baltimore.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Baltimore.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Baltimore.personal|Baltimore.personal]] 
 
-### [Baltimore.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Baltimore.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Baltimore.secret|Baltimore.secret]] 
 

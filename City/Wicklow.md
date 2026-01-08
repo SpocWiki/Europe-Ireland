@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35589
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -6.02
+dv_has_place_latitude: 52.48
+dv_name: Wicklow
+dv_Country: "[[../../Ireland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-6.02] 
-[has_place_latitude::52.48] 
-[name::Wicklow] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Ireland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wicklow](/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow|Wicklow]] 
 
-### [Wicklow.public](/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.public|Wicklow.public]] 
 
-### [Wicklow.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.internal|Wicklow.internal]] 
 
-### [Wicklow.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.protect|Wicklow.protect]] 
 
-### [Wicklow.private](/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.private|Wicklow.private]] 
 
-### [Wicklow.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.personal|Wicklow.personal]] 
 
-### [Wicklow.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland/City/Wicklow.secret|Wicklow.secret]] 
 
