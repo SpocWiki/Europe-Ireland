@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.57
 dv_has_place_latitude: 51.93
-dv_name: Blarney
+dv_has_name_: Blarney
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  

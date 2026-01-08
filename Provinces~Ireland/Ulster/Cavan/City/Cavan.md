@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -7.35
 dv_has_place_latitude: 54
-dv_name: Cavan
+dv_has_name_: Cavan
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  

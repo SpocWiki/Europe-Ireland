@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.53
 dv_has_place_latitude: 51.62
-dv_name: Kinsale
+dv_has_name_: Kinsale
 dv_Country: "[[../../Ireland]]"
 ---
 #is_a_/Place  

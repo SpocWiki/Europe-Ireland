@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -7.5
 dv_has_place_latitude: 53.27
-dv_name: Tullamore
+dv_has_name_: Tullamore
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  

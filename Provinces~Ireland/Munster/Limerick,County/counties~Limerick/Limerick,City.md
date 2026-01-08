@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.62
 dv_has_place_latitude: 52.67
-dv_name: Limerick
+dv_has_name_: Limerick
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  

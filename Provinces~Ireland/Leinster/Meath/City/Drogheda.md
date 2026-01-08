@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.35
 dv_has_place_latitude: 53.7
-dv_name: Drogheda
+dv_has_name_: Drogheda
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  

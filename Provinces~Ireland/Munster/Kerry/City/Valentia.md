@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -10.3
 dv_has_place_latitude: 51.9
-dv_name: Valentia
+dv_has_name_: Valentia
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  

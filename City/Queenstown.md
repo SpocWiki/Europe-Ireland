@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.28
 dv_has_place_latitude: 51.85
-dv_name: Queenstown
+dv_has_name_: Queenstown
 dv_Country: "[[../../Ireland]]"
 ---
 #is_a_/Place  

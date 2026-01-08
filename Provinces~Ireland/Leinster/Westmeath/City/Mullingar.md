@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -7.33
 dv_has_place_latitude: 53.52
-dv_name: Mullingar
+dv_has_name_: Mullingar
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  

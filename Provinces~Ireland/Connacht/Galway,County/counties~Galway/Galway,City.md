@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -9.5
 dv_has_place_latitude: 53.35
-dv_name: Galway
+dv_has_name_: Galway
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  

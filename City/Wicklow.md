@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.02
 dv_has_place_latitude: 52.48
-dv_name: Wicklow
+dv_has_name_: Wicklow
 dv_Country: "[[../../Ireland]]"
 ---
 #is_a_/Place  

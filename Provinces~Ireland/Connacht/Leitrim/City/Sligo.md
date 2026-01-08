@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.33
 dv_has_place_latitude: 54.27
-dv_name: Sligo
+dv_has_name_: Sligo
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  

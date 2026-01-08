@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -7.75
 dv_has_place_latitude: 53.1
-dv_name: Birr Castle
+dv_has_name_: Birr Castle
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.13
 dv_has_place_latitude: 53.3
-dv_name: Kingstown=Dun Laoghaive
+dv_has_name_: Kingstown=Dun Laoghaive
 dv_Country: "[[../../Ireland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.42
 dv_has_place_latitude: 54.02
-dv_name: Dundalk
+dv_has_name_: Dundalk
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  

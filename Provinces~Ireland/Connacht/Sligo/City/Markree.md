@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.45
 dv_has_place_latitude: 54.18
-dv_name: Markree
+dv_has_name_: Markree
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.95
 dv_has_place_latitude: 52.4
-dv_name: New Ross
+dv_has_name_: New Ross
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  

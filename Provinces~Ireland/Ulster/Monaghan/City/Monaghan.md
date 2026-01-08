@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.97
 dv_has_place_latitude: 54.25
-dv_name: Monaghan
+dv_has_name_: Monaghan
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  

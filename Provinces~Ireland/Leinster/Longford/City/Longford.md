@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -7.8
 dv_has_place_latitude: 53.73
-dv_name: Longford
+dv_has_name_: Longford
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  

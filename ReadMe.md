@@ -40,15 +40,13 @@ dv_ISO4217-currency_country_name: IRELAND
 dv_Telephone: 353
 dv_Global: true
 dv_Global_Name: World
-dv_name: Ireland
-dv_name-en:
-  - Ireland
-  - Ireland
-dv_name-es: Irlanda
-dv_name-fr: Irlande
-dv_name-cn: 爱尔兰
-dv_name-ar: آيرلندا
-dv_name-ru: Ирландия
+dv_has_name_: Ireland
+dv_has_name_en: Ireland
+dv_has_name_es: Irlanda
+dv_has_name_fr: Irlande
+dv_has_name_cn: 爱尔兰
+dv_has_name_ar: آيرلندا
+dv_has_name_ru: Ирландия
 dv_CLDR_display_name: Ireland
 dv_UNTERM_English: Ireland
 dv_UNTERM_English_Formal: Ireland
@@ -85,7 +83,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 372
 dv_ISO2: IE
 dv_ISO3: IRL
-dv_name-de: Irland
+dv_has_name_de: Irland
 dv_Area-Total: 70285
 dv_Area-Land: 68890
 dv_Continent: "[[../../../Europe]]"
@@ -112,12 +110,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Ireland ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Ireland ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -176,8 +174,8 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-[name-en::Ireland] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Ireland] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

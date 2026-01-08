@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -7.7
 dv_has_place_latitude: 52.35
-dv_name: Clonmel
+dv_has_name_: Clonmel
 dv_Country: "[[../../../../../../Ireland]]"
 ---
 #is_a_/Place  

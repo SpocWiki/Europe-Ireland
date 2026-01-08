@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -7.5
 dv_has_place_latitude: 52.07
-dv_name: Killarney
+dv_has_name_: Killarney
 dv_Country: "[[../../Ireland]]"
 ---
 #is_a_/Place  

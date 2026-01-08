@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.25
 dv_has_place_latitude: 51.8
-dv_name: Cork
+dv_has_name_: Cork
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  

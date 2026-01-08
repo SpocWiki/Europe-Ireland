@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.47
 dv_has_place_latitude: 52.33
-dv_name: Wexford
+dv_has_name_: Wexford
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  

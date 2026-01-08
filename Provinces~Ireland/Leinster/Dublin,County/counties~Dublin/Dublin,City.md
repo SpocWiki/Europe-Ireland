@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.32
 dv_has_place_latitude: 53.38
-dv_name: Dublin
+dv_has_name_: Dublin
 dv_Country: "[[../../../../../Ireland]]"
 dv_is_:
   same_as: "[[../../../../../../../../../WikiData/WD~Dublin,1761|WD~Dublin,1761]]"

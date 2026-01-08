@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -8.85
 dv_has_place_latitude: 53.53
-dv_name: Tuam
+dv_has_name_: Tuam
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  
