@@ -301,7 +301,7 @@ demonym:
 - Irlandaise
 described_by_source:
 - '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
 - '[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
@@ -433,7 +433,7 @@ maritime_identification_digits: 250
 marriageable_age: 18
 median_income: 25969
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
 - '[[/_Standards/WikiData/WD~Asian_Development_Bank,188822|WD~Asian_Development_Bank,188822]]'
 - '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
@@ -565,9 +565,9 @@ Wolfram_Language_entity_code: Entity["Country", "Ireland"]
 dv_is_:
   same_as:
   - '[[/_Standards/WikiData/WD~Ireland,27|WD~Ireland,27]]'
-  - '[[../../../../WikiData/WD~Ireland,22890|WD~Ireland,22890]]'
-  - '[[../../../../WikiData/WD~Ireland,22890|WD~Ireland,22890]]'
-  - '[[../../../../WikiData/WD~Republic_of_Ireland,27|WD~Republic_of_Ireland,27]]'
+  - '[[../../../../../WikiData/WD~Ireland,22890|WD~Ireland,22890]]'
+  - '[[../../../../../WikiData/WD~Ireland,22890|WD~Ireland,22890]]'
+  - '[[../../../../../WikiData/WD~Republic_of_Ireland,27|WD~Republic_of_Ireland,27]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~North/Ireland|Ireland]]'
   - '[[/_public/Earth/Continent/Europe/Europe~North/Ireland.public|Ireland.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~North/Ireland.internal|Ireland.internal]]'
@@ -921,7 +921,7 @@ dv_UNTERM_Chinese_Formal: 爱尔兰
 dv_UNTERM_French_Formal: l'Irlande
 dv_UNTERM_Russian: Ирландия
 dv_UNTERM_Russian_Formal: Ирландия
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Ireland]]'
 dv_Sub-region_Name: '[[Northern Europe]]'
 dv_Region: 150
@@ -947,7 +947,7 @@ dv_ISO3: IRL
 dv_has_name_de: Irland
 dv_Area-Total: 70285
 dv_Area-Land: 68890
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: IRL
 dv_Alcohol-l: 14.4
 dv_Language-Id: 499
@@ -955,9 +955,9 @@ dv_has_place_longitude: -7.70895
 dv_has_place_latitude: 53.0702
 dv_is_same_as:
 - '[[/_Standards/WikiData/WD~Ireland,27|WD~Ireland,27]]'
-- '[[../../../../WikiData/WD~Ireland,22890|WD~Ireland,22890]]'
-- '[[../../../../WikiData/WD~Ireland,22890|WD~Ireland,22890]]'
-- '[[../../../../WikiData/WD~Republic_of_Ireland,27|WD~Republic_of_Ireland,27]]'
+- '[[../../../../../WikiData/WD~Ireland,22890|WD~Ireland,22890]]'
+- '[[../../../../../WikiData/WD~Ireland,22890|WD~Ireland,22890]]'
+- '[[../../../../../WikiData/WD~Republic_of_Ireland,27|WD~Republic_of_Ireland,27]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~North/Ireland|Ireland]]'
 - '[[/_public/Earth/Continent/Europe/Europe~North/Ireland.public|Ireland.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~North/Ireland.internal|Ireland.internal]]'
@@ -978,7 +978,7 @@ Unicode_character: 🇮🇪
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Ireland)
-into a Subfolder named `Ireland`, so that this Link into the Sub-Repository works: [[Ireland/ReadMe|ReadMe]] 
+into a Subfolder named `Ireland`, so that this Link into the Sub-Repository works: [[ReadMe|ReadMe]] 
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
@@ -992,10 +992,10 @@ with numbers as of 2021-06
 
 | Province                                         | Pop/M |   kkm² | GVA/G€ |  pP/k€ | Notable Properties                                                                                                                 |
 | ------------------------------------------------ | ----: | -----: | -----: | -----: | ---------------------------------------------------------------------------------------------------------------------------------- |
-| [[Ireland/Provinces~Ireland/Leinster\|Leinster]] | 2.858 | 19.774 |    213 | 74.537 | Includes [[Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Dublin,City\|Dublin]], the capital and economic center |
-| [[Ireland/Provinces~Ireland/Munster\|Munster]]   | 1.390 | 24.675 |     78 | 56.115 | Known for its cultural heritage and natural landscapes                                                                             |
-| [[Ireland/Provinces~Ireland/Connacht\|Connacht]] | 0.550 | 17.711 |     20 | 36.364 | Rich in history and scenic beauty, lower population density                                                                        |
-| [[Ireland/Provinces~Ireland/Ulster\|Ulster]]     | 2.101 | 22.967 |     46 | 21.899 | Known for its cultural diversity and historical significance                                                                       |
+| [[Provinces~Ireland/Leinster/|Leinster]] | 2.858 | 19.774 |    213 | 74.537 | Includes [[Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Dublin,City/|Dublin]], the capital and economic center |
+| [[Provinces~Ireland/Munster/|Munster]]   | 1.390 | 24.675 |     78 | 56.115 | Known for its cultural heritage and natural landscapes                                                                             |
+| [[Provinces~Ireland/Connacht/|Connacht]] | 0.550 | 17.711 |     20 | 36.364 | Rich in history and scenic beauty, lower population density                                                                        |
+| [[Provinces~Ireland/Ulster/|Ulster]]     | 2.101 | 22.967 |     46 | 21.899 | Known for its cultural diversity and historical significance                                                                       |
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -1063,7 +1063,7 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2` 
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Ireland,22890|WD~Ireland,22890]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Ireland,22890|WD~Ireland,22890]] 
 
 ## #has_/map  
 
@@ -1083,7 +1083,7 @@ defaultZoom: 11
 
 ```leaflet
 id: Ireland_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1108,15 +1108,15 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[./Ireland/Counties/Dublin|Dublin]]  
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Ireland.mp3|Anthem-Ireland.mp3]]
+Capital :: [[Counties/Dublin|Dublin]]  
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Ireland.mp3|Anthem-Ireland.mp3]]
 ![[Flag_of_Ireland.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 
-#is_/same_as :: [[../../../../WikiData/WD~Ireland,22890|WD~Ireland,22890]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Ireland,22890|WD~Ireland,22890]] 
 
 ## #has_/place_/city   
 
@@ -1124,15 +1124,15 @@ Major Cities with Population in 1000s as of @2022
 
 | City                                                                                       | County                                                                                                                         |    Pop/k |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | -------: |
-| [[Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Dublin,City\|Dublin]]             | [[Ireland/Ireland,Provinces/Leinster/Dublin,County\|County Dublin]], County [[Ireland/Ireland,Provinces/Leinster/Meath\|Meath]]                    | 1263.219 |
-| [[Ireland/Provinces~Ireland/Munster/Cork,County/City/Cork,City\|Cork]]                              | [[Ireland/Provinces~Ireland/Munster/Cork,County\|County Cork]]                                                                          |  222.526 |
-| [[Ireland/Provinces~Ireland/Munster/Limerick,County/counties~Limerick/Limerick,City\|Limerick]]     | [[Ireland/Provinces~Ireland/Munster/Limerick,County\|County Limerick]], County [[Ireland/Provinces~Ireland/Munster/Clare\|Clare]]                |  102.287 |
-| [[Ireland/Provinces~Ireland/Connacht/Galway,County/counties~Galway/Galway,City\|Galway]]             | County [[Ireland/Provinces~Ireland/Connacht/Galway,County\|Galway]]                                                                      |   85.910 |
-| [[Ireland/Provinces~Ireland/Munster/Waterford,County/counties~Waterford/Waterford,City\|Waterford]] | [[Ireland/Provinces~Ireland/Munster/Waterford,County\|County Waterford]], [[Ireland/Ireland,Provinces/Leinster/Kilkenny,County\|County Kilkenny]] |   60.079 |
-| [[Ireland/Ireland,Provinces/Leinster/Meath/City/Drogheda\|Drogheda]]                                 | County [[Ireland/Ireland,Provinces/Leinster/Louth\|Louth]], County [[Ireland/Ireland,Provinces/Leinster/Meath\|Meath]]                             |   44.135 |
-| [[Ireland/Ireland,Provinces/Leinster/Louth/City/Dundalk\|Dundalk]]                                   | County [[Ireland/Ireland,Provinces/Leinster/Louth\|Louth]]                                                                               |   43.112 |
-| [[Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Fingal/Swords,Dublin\|Swords,Dublin]]               | County [[Ireland/Ireland,Provinces/Leinster/Dublin,County\|Dublin]]                                                                      |   40.776 |
-| [[Ireland/Ireland,Provinces/Leinster/Meath/counties~Meath/Navan\|Navan]]                             | County [[Ireland/Ireland,Provinces/Leinster/Meath\|Meath]]                                                                               |   33.886 |
+| [[Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Dublin,City/|Dublin]]             | [[Ireland,Provinces/Leinster/Dublin,County/|County Dublin]], County [[Ireland,Provinces/Leinster/Meath/|Meath]]                    | 1263.219 |
+| [[Provinces~Ireland/Munster/Cork,County/City/Cork,City/|Cork]]                              | [[Provinces~Ireland/Munster/Cork,County/|County Cork]]                                                                          |  222.526 |
+| [[Provinces~Ireland/Munster/Limerick,County/counties~Limerick/Limerick,City/|Limerick]]     | [[Provinces~Ireland/Munster/Limerick,County/|County Limerick]], County [[Provinces~Ireland/Munster/Clare/|Clare]]                |  102.287 |
+| [[Provinces~Ireland/Connacht/Galway,County/counties~Galway/Galway,City/|Galway]]             | County [[Provinces~Ireland/Connacht/Galway,County/|Galway]]                                                                      |   85.910 |
+| [[Provinces~Ireland/Munster/Waterford,County/counties~Waterford/Waterford,City/|Waterford]] | [[Provinces~Ireland/Munster/Waterford,County/|County Waterford]], [[Ireland,Provinces/Leinster/Kilkenny,County/|County Kilkenny]] |   60.079 |
+| [[Ireland,Provinces/Leinster/Meath/City/Drogheda/|Drogheda]]                                 | County [[Ireland,Provinces/Leinster/Louth/|Louth]], County [[Ireland,Provinces/Leinster/Meath/|Meath]]                             |   44.135 |
+| [[Ireland,Provinces/Leinster/Louth/City/Dundalk/|Dundalk]]                                   | County [[Ireland,Provinces/Leinster/Louth/|Louth]]                                                                               |   43.112 |
+| [[Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Fingal/Swords,Dublin/|Swords,Dublin]]               | County [[Ireland,Provinces/Leinster/Dublin,County/|Dublin]]                                                                      |   40.776 |
+| [[Ireland,Provinces/Leinster/Meath/counties~Meath/Navan/|Navan]]                             | County [[Ireland,Provinces/Leinster/Meath/|Meath]]                                                                               |   33.886 |
 
 
 ![[Coat_of_arms_of_Ireland.svg|350]]
@@ -1219,7 +1219,7 @@ Major Cities with Population in 1000s as of @2022
 
 # [[Republic_of_Ireland]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Republic_of_Ireland,27|WD~Republic_of_Ireland,27]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Republic_of_Ireland,27|WD~Republic_of_Ireland,27]] 
 
 ## #has_/text_of_/abstract 
 
