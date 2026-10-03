@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.93
 dv_has_place_latitude: 52.97
 dv_has_name: Carlow
-dv_Country: "[[../../../..]]"
+dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
